@@ -1,0 +1,75 @@
+visa_code,subclass,visa_name,stream,p25,p50,p75,p90,p25_days,p50_days,p75_days,p90_days,updated,period_ending,page
+100,100,Partner visa (subclass 100),,9 Months,9 Months,13 Months,18 Months,274,274,396,548,2026-11-02,2026-09-30,https://ausvisaclock.com/100-visa-processing-time/
+101,101,Child visa (subclass 101),,21 Months,29 Months,31 Months,33 Months,639,883,944,1005,2026-11-02,2026-09-30,https://ausvisaclock.com/101-visa-processing-time/
+102,102,Adoption visa (subclass 102),,6 Months,10 Months,13 Months,19 Months,183,304,396,578,2026-11-02,2026-09-30,https://ausvisaclock.com/102-visa-processing-time/
+117,117,Orphan Relative visa (subclass 117),,52 Months,75 Months,85 Months,96 Months,1583,2283,2587,2922,2026-11-02,2026-09-30,https://ausvisaclock.com/117-visa-processing-time/
+132,132,Business Talent visa (subclass 132),Significant Business History,61 Months,67 Months,69 Months,70 Months,1857,2039,2100,2131,2026-11-02,2026-09-30,https://ausvisaclock.com/132-visa-processing-time/
+155,155,Five Year Resident Return visa (subclass 155),,Less than 1 Day,Less than 1 Day,4 Days,6 Days,0.5,0.5,4,6,2026-11-02,2026-09-30,https://ausvisaclock.com/155-visa-processing-time/
+157,157,Three Month Resident Return visa (subclass 157),,5 Days,12 Days,42 Days,62 Days,5,12,42,62,2026-11-02,2026-09-30,https://ausvisaclock.com/157-visa-processing-time/
+186,186,Employer Nomination Scheme (subclass 186),Direct Entry Pathway,16 Months,22 Months,23 Months,24 Months,487,670,700,731,2026-11-02,2026-09-30,https://ausvisaclock.com/186-visa-processing-time/
+186,186,Employer Nomination Scheme (subclass 186),Agreement Pathway,20 Days,44 Days,12 Months,13 Months,20,44,365,396,2026-11-02,2026-09-30,https://ausvisaclock.com/186-visa-processing-time/
+186,186,Employer Nomination Scheme (subclass 186),Transition Pathway,17 Months,22 Months,23 Months,24 Months,517,670,700,731,2026-11-02,2026-09-30,https://ausvisaclock.com/186-visa-processing-time/
+188,188,Business Innovation and Investment (Provisional) visa (subclass 188),Business Innovation Extension,5 Months,7 Months,10 Months,11 Months,152,213,304,335,2026-11-02,2026-09-30,https://ausvisaclock.com/188-visa-processing-time/
+189,189,Skilled - Independent visa (subclass 189),Points-Tested,60 Days,90 Days,4 Months,9 Months,60,90,122,274,2026-11-02,2026-09-30,https://ausvisaclock.com/189-visa-processing-time/
+189,189,Skilled - Independent visa (subclass 189),New Zealand,49 Months,56 Months,59 Months,62 Months,1492,1705,1796,1887,2026-11-02,2026-09-30,https://ausvisaclock.com/189-visa-processing-time/
+190,190,Skilled - Nominated visa (subclass 190),,4 Months,8 Months,14 Months,16 Months,122,244,426,487,2026-11-02,2026-09-30,https://ausvisaclock.com/190-visa-processing-time/
+191,191,Permanent Residence (Skilled Regional) (subclass 191),Regional Provisional Visa,7 Months,7 Months,8 Months,11 Months,213,213,244,335,2026-11-09,2026-09-30,https://ausvisaclock.com/191-visa-processing-time/
+300,300,Prospective Marriage visa (subclass 300),,15 Months,18 Months,22 Months,31 Months,457,548,670,944,2026-11-02,2026-09-30,https://ausvisaclock.com/300-visa-processing-time/
+309,309,Partner (Provisional) visa (subclass 309),,17 Months,21 Months,27 Months,35 Months,517,639,822,1065,2026-11-02,2026-09-30,https://ausvisaclock.com/309-visa-processing-time/
+400,400,Temporary Work (Short Stay Activity) visa (subclass 400),,7 days,12 Days,23 Days,41 Days,7,12,23,41,2026-11-02,2026-09-30,https://ausvisaclock.com/400-visa-processing-time/
+403,403,Temporary Work (International Relations) visa (subclass 403),Government Agreement,14 Days,21 Days,28 Days,41 Days,14,21,28,41,2026-11-02,2026-09-30,https://ausvisaclock.com/403-visa-processing-time/
+403,403,Temporary Work (International Relations) visa (subclass 403),Foreign Government Agency,13 Days,42 Days,85 Days,4 Months,13,42,85,122,2026-11-02,2026-09-30,https://ausvisaclock.com/403-visa-processing-time/
+403,403,Temporary Work (International Relations) visa (subclass 403),Domestic Worker (Diplomatic or Consular),4 Days,14 Days,41 Days,3 Months,4,14,41,91,2026-11-02,2026-09-30,https://ausvisaclock.com/403-visa-processing-time/
+403,403,Temporary Work (International Relations) visa (subclass 403),Pacific Australia Labour Mobility Scheme,14 Days,15 Days,18 Days,29 Days,14,15,18,29,2026-11-02,2026-09-30,https://ausvisaclock.com/403-visa-processing-time/
+403,403,Temporary Work (International Relations) visa (subclass 403),Mobility Arrangement for Talented Early-professionals Scheme (MATES),55 Days,69 Days,3 Months,3 Months,55,69,91,91,2026-11-09,2026-09-30,https://ausvisaclock.com/403-visa-processing-time/
+407,407,Training visa (subclass 407),,10 Months,15 Months,18 Months,19 Months,304,457,548,578,2026-11-02,2026-09-30,https://ausvisaclock.com/407-visa-processing-time/
+408,408,Temporary Activity visa (subclass 408),Entertainment Activities,10 Days,23 Days,33 Days,40 Days,10,23,33,40,2026-11-02,2026-09-30,https://ausvisaclock.com/408-visa-processing-time/
+408,408,Temporary Activity visa (subclass 408),Research Activities,44 Days,77 Days,3 Months,14 Months,44,77,91,426,2026-11-02,2026-09-30,https://ausvisaclock.com/408-visa-processing-time/
+408,408,Temporary Activity visa (subclass 408),Religious Work,4 Months,4 Months,8 Months,10 Months,122,122,244,304,2026-11-02,2026-09-30,https://ausvisaclock.com/408-visa-processing-time/
+408,408,Temporary Activity visa (subclass 408),Special Programs,3 Days,7 Days,13 Days,30 Days,3,7,13,30,2026-11-02,2026-09-30,https://ausvisaclock.com/408-visa-processing-time/
+408,408,Temporary Activity visa (subclass 408),Invited for Other Social and Cultural Activity,2 Days,6 Days,13 Days,34 Days,2,6,13,34,2026-11-02,2026-09-30,https://ausvisaclock.com/408-visa-processing-time/
+408,408,Temporary Activity visa (subclass 408),Exchange Arrangements,18 Days,29 Days,41 Days,50 Days,18,29,41,50,2026-11-02,2026-09-30,https://ausvisaclock.com/408-visa-processing-time/
+408,408,Temporary Activity visa (subclass 408),Superyacht Crew,4 Days,8 Days,12 Days,15 Days,4,8,12,15,2026-11-02,2026-09-30,https://ausvisaclock.com/408-visa-processing-time/
+408,408,Temporary Activity visa (subclass 408),Sporting Activities,4 Days,14 Days,28 Days,56 Days,4,14,28,56,2026-11-02,2026-09-30,https://ausvisaclock.com/408-visa-processing-time/
+417,417,Working Holiday visa (subclass 417),,Less than 1 Day,58 Days,71 Days,80 Days,0.5,58,71,80,2026-11-02,2026-09-30,https://ausvisaclock.com/417-visa-processing-time/
+445,445,Dependent Child visa (subclass 445),,24 Months,26 Months,31 Months,33 Months,731,791,944,1005,2026-11-02,2026-09-30,https://ausvisaclock.com/445-visa-processing-time/
+461,461,New Zealand Citizen Family Relationship (Temporary) visa (subclass 461),,4 Months,5 Months,6 Months,7 Months,122,152,183,213,2026-11-02,2026-09-30,https://ausvisaclock.com/461-visa-processing-time/
+462,462,Work and Holiday visa (subclass 462),,Less than 1 Day,7 Days,27 Days,74 Days,0.5,7,27,74,2026-11-02,2026-09-30,https://ausvisaclock.com/462-visa-processing-time/
+482,482,Skills In Demand visa (482),Labour Agreement,3 Months,6 Months,7 Months,10 Months,91,183,213,304,2026-11-09,2026-09-30,https://ausvisaclock.com/482-visa-processing-time/
+482,482,Skills In Demand visa (482),Core Skills,72 Days,6 Months,8 Months,9 Months,72,183,244,274,2026-11-09,2026-09-30,https://ausvisaclock.com/482-visa-processing-time/
+482,482,Skills In Demand visa (482),Specialist Skills,40 Days,59 Days,72 Days,3 Months,40,59,72,91,2026-11-09,2026-09-30,https://ausvisaclock.com/482-visa-processing-time/
+482,482,Skills In Demand visa (482),Nomination,1 Day,36 Days,7 months,9 months,1,36,213,274,2026-11-09,2026-09-30,https://ausvisaclock.com/482-visa-processing-time/
+482,482,Skills In Demand visa (482),Sponsorship,7 Days,15 Days,56 Days,4 months,7,15,56,122,2026-11-09,2026-09-30,https://ausvisaclock.com/482-visa-processing-time/
+485,485,Temporary Graduate visa (subclass 485),Post-Vocation Education Work,21 Days,52 Days,3 Months,4 Months,21,52,91,122,2026-11-02,2026-09-30,https://ausvisaclock.com/485-visa-processing-time/
+485,485,Temporary Graduate visa (subclass 485),Post-Higher Education Work,8 Days,16 Days,24 Days,33 Days,8,16,24,33,2026-11-02,2026-09-30,https://ausvisaclock.com/485-visa-processing-time/
+491,491,Skilled Work Regional (Provisional) visa (subclass 491),State/Territory Government Nominated Regional,6 Months,17 Months,19 Months,30 Months,183,517,578,913,2026-11-02,2026-09-30,https://ausvisaclock.com/491-visa-processing-time/
+491,491,Skilled Work Regional (Provisional) visa (subclass 491),Family Sponsored Regional,71 Days,4 Months,5 Months,7 Months,71,122,152,213,2026-11-02,2026-09-30,https://ausvisaclock.com/491-visa-processing-time/
+494,494,Skilled Employer Sponsored Regional (Provisional) visa (subclass 494),Employer Sponsored,5 Months,10 Months,13 Months,20 Months,152,304,396,609,2026-11-02,2026-09-30,https://ausvisaclock.com/494-visa-processing-time/
+494,494,Skilled Employer Sponsored Regional (Provisional) visa (subclass 494),Labour Agreement,70 Days,86 Days,4 Months,13 Months,70,86,122,396,2026-11-02,2026-09-30,https://ausvisaclock.com/494-visa-processing-time/
+500,500,Student visa (subclass 500),Foreign Affairs or Defence Sector,1 Day,1 Day,5 Days,25 Days,1,1,5,25,2026-11-02,2026-09-30,https://ausvisaclock.com/500-visa-processing-time/
+500,500,Student visa (subclass 500),Postgraduate Research Sector,6 Days,25 Days,48 Days,66 Days,6,25,48,66,2026-11-02,2026-09-30,https://ausvisaclock.com/500-visa-processing-time/
+500,500,Student visa (subclass 500),Independent ELICOS Sector,Less than 1 Day,11 Days,29 Days,49 Days,0.5,11,29,49,2026-11-02,2026-09-30,https://ausvisaclock.com/500-visa-processing-time/
+500,500,Student visa (subclass 500),Schools Sector,10 Days,24 Days,6 Months,7 Months,10,24,183,213,2026-11-02,2026-09-30,https://ausvisaclock.com/500-visa-processing-time/
+500,500,Student visa (subclass 500),Vocational Education and Training Sector,28 Days,4 Months,7 Months,7 Months,28,122,213,213,2026-11-02,2026-09-30,https://ausvisaclock.com/500-visa-processing-time/
+500,500,Student visa (subclass 500),Higher Education Sector,7 Days,25 Days,61 Days,7 Months,7,25,61,213,2026-11-02,2026-09-30,https://ausvisaclock.com/500-visa-processing-time/
+500,500,Student visa (subclass 500),Non-Award Sector,Less than 1 Day,Less than 1 Day,4 Days,23 Days,0.5,0.5,4,23,2026-11-02,2026-09-30,https://ausvisaclock.com/500-visa-processing-time/
+590,590,Student Guardian visa (subclass 590),,13 Days,34 Days,7 Months,8 Months,13,34,213,244,2026-11-02,2026-09-30,https://ausvisaclock.com/590-visa-processing-time/
+600,600,Visitor visa (subclass 600),Tourist,8 Days,21 Days,27 Days,31 Days,8,21,27,31,2026-11-02,2026-09-30,https://ausvisaclock.com/600-visa-processing-time/
+600,600,Visitor visa (subclass 600),Sponsored Family,32 Days,40 Days,54 Days,89 Days,32,40,54,89,2026-11-02,2026-09-30,https://ausvisaclock.com/600-visa-processing-time/
+600,600,Visitor visa (subclass 600),Business Visitor,4 Days,7 Days,14 Days,23 Days,4,7,14,23,2026-11-02,2026-09-30,https://ausvisaclock.com/600-visa-processing-time/
+601,601,Electronic Travel Authority (subclass 601),,Less than 1 Day,Less than 1 Day,Less than 1 Day,Less than 1 Day,0.5,0.5,0.5,0.5,2026-11-02,2026-09-30,https://ausvisaclock.com/601-visa-processing-time/
+602,602,Medical Treatment visa (subclass 602),,3 Days,21 Days,64 Days,3 Months,3,21,64,91,2026-11-02,2026-09-30,https://ausvisaclock.com/602-visa-processing-time/
+651,651,eVisitor visa (subclass 651),,Less than 1 Day,Less than 1 Day,Less than 1 Day,Less than 1 Day,0.5,0.5,0.5,0.5,2026-11-02,2026-09-30,https://ausvisaclock.com/651-visa-processing-time/
+771,771,Transit visa (subclass 771),,Less than 1 day,3 Days,8 Days,17 Days,0.5,3,8,17,2026-11-02,2026-09-30,https://ausvisaclock.com/771-visa-processing-time/
+801,801,Partner visa (subclass 801),,3 Months,6 Months,11 Months,19 Months,91,183,335,578,2026-11-02,2026-09-30,https://ausvisaclock.com/801-visa-processing-time/
+802,802,Child visa (subclass 802),,18 Months,21 Months,23 Months,31 Months,548,639,700,944,2026-11-02,2026-09-30,https://ausvisaclock.com/802-visa-processing-time/
+820,820,Partner visa (subclass 820),,19 Months,21 Months,26 Months,30 Months,578,639,791,913,2026-11-02,2026-09-30,https://ausvisaclock.com/820-visa-processing-time/
+858,858,Global Talent visa (subclass 858),Distinguished Talent / Global Talent (Independent),13 Months,16 Months,19 Months,24 Months,396,487,578,731,2026-11-09,2026-09-30,https://ausvisaclock.com/858-visa-processing-time/
+870,870,Sponsored Parent (Temporary) (subclass 870),Visa Application,6 Months,7 Months,8 Months,9 Months,183,213,244,274,2026-11-02,2026-09-30,https://ausvisaclock.com/870-visa-processing-time/
+870,870,Sponsored Parent (Temporary) (subclass 870),Sponsorship,4 months,4 months,4 months,4 months,122,122,122,122,2026-11-02,2026-09-30,https://ausvisaclock.com/870-visa-processing-time/
+887,887,Skilled - Regional visa (subclass 887),,9 Months,10 Months,10 Months,11 Months,274,304,304,335,2026-11-02,2026-09-30,https://ausvisaclock.com/887-visa-processing-time/
+888,888,Business Innovation and Investment (Permanent) visa (subclass 888),Business Innovation,9 Months,9 Months,10 Months,11 Months,274,274,304,335,2026-11-02,2026-09-30,https://ausvisaclock.com/888-visa-processing-time/
+888,888,Business Innovation and Investment (Permanent) visa (subclass 888),Investor,4 Months,6 Months,8 Months,9 Months,122,183,244,274,2026-11-02,2026-09-30,https://ausvisaclock.com/888-visa-processing-time/
+888,888,Business Innovation and Investment (Permanent) visa (subclass 888),Significant Investor,3 Months,4 Months,5 Months,6 Months,91,122,152,183,2026-11-02,2026-09-30,https://ausvisaclock.com/888-visa-processing-time/
+988,988,Maritime Crew Visa (subclass 988),,Less than 1 Day,Less than 1 Day,Less than 1 Day,2 Days,0.5,0.5,0.5,2,2026-11-02,2026-09-30,https://ausvisaclock.com/988-visa-processing-time/
+858-1,858,National Innovation visa (subclass 858),National Innovation,56 Days,78 Days,4 Months,7 Months,56,78,122,213,2026-11-02,2026-08-31,https://ausvisaclock.com/858-visa-processing-time/

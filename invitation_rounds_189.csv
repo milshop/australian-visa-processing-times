@@ -1,0 +1,735 @@
+round_date,occupation,min_points,tie_break_date
+2026-10-15,Actuary,85,2026-09-03
+2026-10-15,Agricultural Consultant,80,2026-09-03
+2026-10-15,Agricultural Scientist,80,2026-09-04
+2026-10-15,Airconditioning and Mechanical Services Plumber,65,2026-09-19
+2026-10-15,Airconditioning and Refrigeration Mechanic,65,2026-10-08
+2026-10-15,Architect,85,2026-08-06
+2026-10-15,Arts Administrator or Manager,65,2026-10-01
+2026-10-15,Audiologist,70,2025-10-29
+2026-10-15,Automotive Electrician,65,2026-10-10
+2026-10-15,Barrister,70,2026-03-27
+2026-10-15,Biotechnologist,90,2026-02-09
+2026-10-15,Boat Builder and Repairer,65,2026-08-13
+2026-10-15,Bricklayer,65,2026-09-17
+2026-10-15,Cabinetmaker,65,2026-10-14
+2026-10-15,Cardiologist,75,2026-10-14
+2026-10-15,Carpenter,65,2026-09-21
+2026-10-15,Carpenter and Joiner,65,2026-09-15
+2026-10-15,Cartographer,85,2026-03-25
+2026-10-15,Chemical Engineer,85,2026-07-10
+2026-10-15,Chemist,80,2026-01-01
+2026-10-15,Child Care Centre Manager,85,2026-10-14
+2026-10-15,Chiropractor,80,2026-09-04
+2026-10-15,Clinical Psychologist,90,2026-09-28
+2026-10-15,Conservator,90,2026-09-16
+2026-10-15,Construction Project Manager,80,2026-09-04
+2026-10-15,Dancer or Choreographer,65,2026-07-07
+2026-10-15,Dermatologist,85,2026-04-03
+2026-10-15,Diagnostic and Interventional Radiologist,75,2026-09-27
+2026-10-15,Drainer,65,2026-07-15
+2026-10-15,Early Childhood (Pre-primary School) Teacher,90,2026-07-22
+2026-10-15,Economist,65,2026-10-15
+2026-10-15,Educational Psychologist,65,2026-10-15
+2026-10-15,Electrical Engineering Draftsperson,65,2026-10-15
+2026-10-15,Electrical Engineering Technician,65,2026-09-29
+2026-10-15,Electrician (General),65,2026-09-18
+2026-10-15,Electrician (Special Class),65,2026-02-19
+2026-10-15,Electronic Equipment Trades Worker,65,2026-10-13
+2026-10-15,Electronic Instrument Trades Worker (General),65,2026-10-12
+2026-10-15,Electronic Instrument Trades Worker (Special Class),65,2026-08-29
+2026-10-15,Electronics Engineer,95,2025-11-21
+2026-10-15,Emergency Medicine Specialist,70,2025-07-19
+2026-10-15,Endocrinologist,80,2026-03-06
+2026-10-15,Engineering Manager,80,2026-08-04
+2026-10-15,Environmental Consultant,65,2026-10-01
+2026-10-15,Environmental Manager,65,13/10/206
+2026-10-15,Environmental Research Scientist,65,2026-10-06
+2026-10-15,Environmental Scientists nec,65,2026-10-13
+2026-10-15,Fibrous Plasterer,65,2026-08-04
+2026-10-15,Fitter (General),80,2026-08-12
+2026-10-15,Fitter-Welder,80,2026-08-13
+2026-10-15,Food Technologist,80,2025-12-20
+2026-10-15,Footballer,70,2026-05-28
+2026-10-15,Forester,80,01/07/206
+2026-10-15,Gasfitter,70,2026-09-29
+2026-10-15,Gastroenterologist,75,2026-04-16
+2026-10-15,General Practitioner,70,2025-11-18
+2026-10-15,Geophysicist,80,2026-08-28
+2026-10-15,Glazier,65,2026-09-10
+2026-10-15,Horse Trainer,65,2026-09-28
+2026-10-15,Hydrogeologist,80,2026-08-16
+2026-10-15,ICT Security Specialist,100,2024-11-08
+2026-10-15,Intensive Care Specialist,75,2025-12-23
+2026-10-15,Joiner,65,2026-08-21
+2026-10-15,Land Economist,65,2026-09-12
+2026-10-15,Landscape Architect,85,2026-07-28
+2026-10-15,Life Scientist (General),90,2026-01-22
+2026-10-15,Life Scientists nec,90,2026-02-03
+2026-10-15,Lift mechanic,80,2025-11-12
+2026-10-15,Locksmith,65,2026-10-09
+2026-10-15,Management Consultant,80,2026-09-07
+2026-10-15,Marine Biologist,95,2026-09-16
+2026-10-15,Materials Engineer,85,2026-05-16
+2026-10-15,Medical Diagnostic Radiographer,70,2025-11-20
+2026-10-15,Medical Laboratory Scientist,80,2026-08-31
+2026-10-15,Medical Oncologist,70,2025-08-26
+2026-10-15,Medical Practitioners nec,70,2025-11-20
+2026-10-15,Medical Radiation Therapist,75,2026-05-27
+2026-10-15,Metal Fabricator,80,2026-08-28
+2026-10-15,Metal Machinist (First Class),80,2026-08-10
+2026-10-15,Metallurgist,80,2026-08-25
+2026-10-15,Meteorologist,85,2026-03-11
+2026-10-15,Microbiologist,90,2026-01-04
+2026-10-15,Midwife,70,2025-10-18
+2026-10-15,Mining Engineer (excluding Petroleum),80,2026-08-25
+2026-10-15,Multimedia Specialist,90,2026-06-01
+2026-10-15,Music Director,70,2026-09-15
+2026-10-15,Musician (Instrumental),65,2026-09-29
+2026-10-15,Natural and Physical Science Professionals nec,85,2026-09-06
+2026-10-15,Neurologist,75,2026-05-29
+2026-10-15,Neurosurgeon,85,2026-08-05
+2026-10-15,Nuclear Medicine Technologist,70,2026-02-15
+2026-10-15,Nurse Practitioner,70,2025-08-18
+2026-10-15,Nursing Clinical Director,75,2025-11-17
+2026-10-15,Obstetrician and Gynaecologist,70,2025-10-20
+2026-10-15,Occupational Therapist,70,2025-11-20
+2026-10-15,Ophthalmologist,80,2026-09-16
+2026-10-15,Optometrist,80,2026-08-24
+2026-10-15,Orthopaedic Surgeon,80,2026-08-10
+2026-10-15,Orthotist or Prosthetist,80,2026-04-07
+2026-10-15,Osteopath,80,2026-09-02
+2026-10-15,Other Spatial Scientist,80,2026-08-28
+2026-10-15,Paediatrician,70,2026-06-23
+2026-10-15,Painting Trades Worker,70,2026-07-01
+2026-10-15,Panelbeater,65,2026-10-13
+2026-10-15,Pathologist,70,2026-10-18
+2026-10-15,Petroleum Engineer,80,2026-08-17
+2026-10-15,Physicist,80,2026-08-28
+2026-10-15,Physiotherapist,70,2025-11-20
+2026-10-15,Plumber (General),65,2026-06-11
+2026-10-15,Podiatrist,70,2025-03-15
+2026-10-15,Primary Health Organisation Manager,65,2026-10-14
+2026-10-15,Psychiatrist,70,2025-07-22
+2026-10-15,Psychologists nec,80,2026-08-15
+2026-10-15,Radiocommunications Technician,85,2025-01-31
+2026-10-15,Registered Nurse (Aged Care),70,2025-11-20
+2026-10-15,Registered Nurse (Child and Family Health),70,2025-08-21
+2026-10-15,Registered Nurse (Community Health),70,2025-11-11
+2026-10-15,Registered Nurse (Critical Care and Emergency),70,2025-11-18
+2026-10-15,Registered Nurse (Developmental Disability),70,2025-04-10
+2026-10-15,Registered Nurse (Disability and Rehabilitation),70,2025-08-26
+2026-10-15,Registered Nurse (Medical Practice),70,2025-11-10
+2026-10-15,Registered Nurse (Medical),70,2025-11-19
+2026-10-15,Registered Nurse (Mental Health),70,2025-10-10
+2026-10-15,Registered Nurse (Paediatrics),70,2025-11-19
+2026-10-15,Registered Nurse (Perioperative),70,2025-11-19
+2026-10-15,Registered Nurse (Surgical),70,2025-11-15
+2026-10-15,Registered Nurses nec,70,2025-11-19
+2026-10-15,Roof Plumber,65,2026-09-20
+2026-10-15,Secondary School Teacher,80,2026-09-04
+2026-10-15,Sheetmetal Trades Worker,65,2026-08-12
+2026-10-15,Shipwright,65,2025-09-16
+2026-10-15,Social Worker,80,2026-09-03
+2026-10-15,Solicitor,65,2026-10-15
+2026-10-15,Solid Plasterer,65,2026-09-18
+2026-10-15,Sonographer,75,2026-09-29
+2026-10-15,Special Education Teachers nec,80,2026-07-21
+2026-10-15,Special Needs Teacher,80,2026-08-22
+2026-10-15,Specialist Physician (General Medicine),75,2026-09-21
+2026-10-15,Specialist Physicians nec,85,2026-09-19
+2026-10-15,Speech Pathologist,70,2025-10-29
+2026-10-15,Statistician,85,2026-09-02
+2026-10-15,Stonemason,65,2026-09-15
+2026-10-15,Surgeon (General),90,2026-09-12
+2026-10-15,Surveyor,80,2025-09-15
+2026-10-15,Technical Cable Jointer,70,2026-08-19
+2026-10-15,Telecommunications Engineer,85,2026-10-14
+2026-10-15,Telecommunications Field Engineer,85,2026-10-11
+2026-10-15,Telecommunications Network Engineer,85,2026-10-06
+2026-10-15,Telecommunications Network Planner,85,2026-10-11
+2026-10-15,Telecommunications Technical Officer or Technologist,85,2026-10-14
+2026-10-15,Tennis Coach,65,2025-12-01
+2026-10-15,University Lecturer,90,2026-07-14
+2026-10-15,Urologist,100,2026-06-04
+2026-10-15,Valuer,65,2026-10-10
+2026-10-15,Veterinarian,80,2026-09-02
+2026-10-15,Wall and Floor Tiler,65,2026-09-19
+2026-10-15,Welder (First Class),80,2026-09-01
+2026-10-15,Welfare Centre Manager,65,2026-09-28
+2026-10-15,Zoologist,95,2026-07-23
+2026-06-04,Actuary,90,
+2026-06-04,Agricultural Consultant,80,
+2026-06-04,Agricultural Scientist,80,
+2026-06-04,Airconditioning and Mechanical Services Plumber,65,
+2026-06-04,Airconditioning and Refrigeration Mechanic,80,
+2026-06-04,Architect,85,
+2026-06-04,Arts Administrator or Manager,80,
+2026-06-04,Audiologist,75,
+2026-06-04,Automotive Electrician,80,
+2026-06-04,Barrister,80,
+2026-06-04,Biotechnologist,95,
+2026-06-04,Boat Builder and Repairer,80,
+2026-06-04,Bricklayer,65,
+2026-06-04,Cabinetmaker,80,
+2026-06-04,Cardiologist,80,
+2026-06-04,Carpenter,65,
+2026-06-04,Carpenter and Joiner,65,
+2026-06-04,Cartographer,85,
+2026-06-04,Chemist,85,
+2026-06-04,Child Care Centre Manager,80,
+2026-06-04,Chiropractor,80,
+2026-06-04,Clinical Psychologist,75,
+2026-06-04,Construction Project Manager,80,
+2026-06-04,Dancer or Choreographer,80,
+2026-06-04,Dermatologist,85,
+2026-06-04,Diagnostic and Interventional Radiologist,85,
+2026-06-04,Drainer,65,
+2026-06-04,Economist,80,
+2026-06-04,Electrical Engineering Draftsperson,80,
+2026-06-04,Electrical Engineering Technician,80,
+2026-06-04,Electrician (General),65,
+2026-06-04,Electrician (Special Class),65,
+2026-06-04,Electronic Equipment Trades Worker,80,
+2026-06-04,Electronic Instrument Trades Worker (General),80,
+2026-06-04,Electronic Instrument Trades Worker (Special Class),80,
+2026-06-04,Electronics Engineer,95,
+2026-06-04,Emergency Medicine Specialist,75,
+2026-06-04,Endocrinologist,80,
+2026-06-04,Engineering Manager,80,
+2026-06-04,Environmental Consultant,80,
+2026-06-04,Environmental Manager,80,
+2026-06-04,Environmental Research Scientist,80,
+2026-06-04,Environmental Scientists nec,80,
+2026-06-04,Fibrous Plasterer,65,
+2026-06-04,Fitter (General),80,
+2026-06-04,Fitter and Turner,80,
+2026-06-04,Food Technologist,85,
+2026-06-04,Footballer,80,
+2026-06-04,Forester,80,
+2026-06-04,Gasfitter,70,
+2026-06-04,Gastroenterologist,85,
+2026-06-04,General Practitioner,75,
+2026-06-04,Geophysicist,80,
+2026-06-04,Glazier,65,
+2026-06-04,Hydrogeologist,80,
+2026-06-04,Intensive Care Specialist,80,
+2026-06-04,Joiner,65,
+2026-06-04,Land Economist,80,
+2026-06-04,Landscape Architect,85,
+2026-06-04,Life Scientist (General),95,
+2026-06-04,Life Scientists nec,95,
+2026-06-04,Lift mechanic,80,
+2026-06-04,Management Consultant,80,
+2026-06-04,Marine Biologist,95,
+2026-06-04,Medical Diagnostic Radiographer,80,
+2026-06-04,Medical Laboratory Scientist,80,
+2026-06-04,Medical Practitioners nec,75,
+2026-06-04,Medical Radiation Therapist,80,
+2026-06-04,Metal Fabricator,80,
+2026-06-04,Metal Machinist (First Class),85,
+2026-06-04,Metallurgist,80,
+2026-06-04,Meteorologist,85,
+2026-06-04,Microbiologist,95,
+2026-06-04,Midwife,75,
+2026-06-04,Mining Engineer (excluding Petroleum),80,
+2026-06-04,Multimedia Specialist,95,
+2026-06-04,Music Director,80,
+2026-06-04,Musician (Instrumental),80,
+2026-06-04,Natural and Physical Science Professionals nec,80,
+2026-06-04,Nuclear Medicine Technologist,80,
+2026-06-04,Nurse Practitioner,80,
+2026-06-04,Obstetrician and Gynaecologist,85,
+2026-06-04,Occupational Therapist,75,
+2026-06-04,Ophthalmologist,80,
+2026-06-04,Optometrist,80,
+2026-06-04,Organisational Psychologist,80,
+2026-06-04,Orthopaedic Surgeon,85,
+2026-06-04,Orthotist or Prosthetist,80,
+2026-06-04,Osteopath,80,
+2026-06-04,Other Spatial Scientist,80,
+2026-06-04,Paediatrician,75,
+2026-06-04,Panelbeater,80,
+2026-06-04,Petroleum Engineer,80,
+2026-06-04,Physicist,80,
+2026-06-04,Physiotherapist,75,
+2026-06-04,Plumber (General),65,
+2026-06-04,Podiatrist,75,
+2026-06-04,Primary Health Organisation Manager,80,
+2026-06-04,Psychiatrist,80,
+2026-06-04,Psychologists nec,75,
+2026-06-04,Registered Nurse (Aged Care),75,
+2026-06-04,Registered Nurse (Child and Family Health),80,
+2026-06-04,Registered Nurse (Community Health),75,
+2026-06-04,Registered Nurse (Critical Care and Emergency),75,
+2026-06-04,Registered Nurse (Developmental Disability),80,
+2026-06-04,Registered Nurse (Disability and Rehabilitation),80,
+2026-06-04,Registered Nurse (Medical Practice),75,
+2026-06-04,Registered Nurse (Medical),75,
+2026-06-04,Registered Nurse (Mental Health),75,
+2026-06-04,Registered Nurse (Paediatrics),80,
+2026-06-04,Registered Nurse (Perioperative),75,
+2026-06-04,Registered Nurse (Surgical),75,
+2026-06-04,Registered Nurses nec,75,
+2026-06-04,Roof Plumber,65,
+2026-06-04,Secondary School Teacher,75,
+2026-06-04,Sheetmetal Trades Worker,80,
+2026-06-04,Shipwright,80,
+2026-06-04,Social Worker,75,
+2026-06-04,Solicitor,80,
+2026-06-04,Solid Plasterer,65,
+2026-06-04,Sonographer,85,
+2026-06-04,Special Education Teachers nec,85,
+2026-06-04,Special Needs Teacher,75,
+2026-06-04,Specialist Physician (General Medicine),80,
+2026-06-04,Specialist Physicians nec,80,
+2026-06-04,Speech Pathologist,75,
+2026-06-04,Statistician,90,
+2026-06-04,Stonemason,65,
+2026-06-04,Surgeon (General),85,
+2026-06-04,Surveyor,80,
+2026-06-04,Telecommunications Engineer,95,
+2026-06-04,Telecommunications Network Engineer,95,
+2026-06-04,Tennis Coach,80,
+2026-06-04,Thoracic Medicine Specialist,95,
+2026-06-04,Urologist,100,
+2026-06-04,Valuer,80,
+2026-06-04,Veterinarian,80,
+2026-06-04,Wall and Floor Tiler,65,
+2026-06-04,Welder (First Class),80,
+2026-06-04,Welfare Centre Manager,85,
+2025-11-13,Actuary,85,
+2025-11-13,Agricultural Consultant,85,
+2025-11-13,Agricultural Scientist,85,
+2025-11-13,Airconditioning and Mechanical Services Plumber,65,
+2025-11-13,Architect,85,
+2025-11-13,Artistic Director,85,
+2025-11-13,Arts Administrator or Manager,85,
+2025-11-13,Audiologist,75,
+2025-11-13,Automotive Electrician,85,
+2025-11-13,Barrister,90,
+2025-11-13,Biochemist,85,
+2025-11-13,Biotechnologist,85,
+2025-11-13,Boat Builder and Repairer,85,
+2025-11-13,Botanist,85,
+2025-11-13,Bricklayer,65,
+2025-11-13,Cabinetmaker,85,
+2025-11-13,Cardiologist,80,
+2025-11-13,Carpenter,65,
+2025-11-13,Carpenter and Joiner,65,
+2025-11-13,Cartographer,90,
+2025-11-13,Chemical Engineer,85,
+2025-11-13,Chemist,85,
+2025-11-13,Child Care Centre Manager,75,
+2025-11-13,Chiropractor,85,
+2025-11-13,Civil Engineering Draftsperson,85,
+2025-11-13,Civil Engineering Technician,85,
+2025-11-13,Clinical Psychologist,80,
+2025-11-13,Construction Project Manager,85,
+2025-11-13,Dermatologist,100,
+2025-11-13,Diagnostic and Interventional Radiologist,80,
+2025-11-13,Drainer,70,
+2025-11-13,Early Childhood (Pre-primary School) Teacher,85,
+2025-11-13,Economist,85,
+2025-11-13,Electrical Engineering Draftsperson,85,
+2025-11-13,Electrical Engineering Technician,85,
+2025-11-13,Electrician (General),65,
+2025-11-13,Electrician (Special Class),70,
+2025-11-13,Electronic Equipment Trades Worker,85,
+2025-11-13,Electronic Instrument Trades Worker (General),95,
+2025-11-13,Electronic Instrument Trades Worker (Special Class),95,
+2025-11-13,Emergency Medicine Specialist,75,
+2025-11-13,Engineering Manager,85,
+2025-11-13,Environmental Consultant,85,
+2025-11-13,Environmental Manager,85,
+2025-11-13,Environmental Research Scientist,85,
+2025-11-13,Environmental Scientists nec,85,
+2025-11-13,Fibrous Plasterer,65,
+2025-11-13,Fitter (General),85,
+2025-11-13,Food Technologist,85,
+2025-11-13,Forester,85,
+2025-11-13,Gasfitter,65,
+2025-11-13,General Practitioner,75,
+2025-11-13,Geophysicist,85,
+2025-11-13,Glazier,65,
+2025-11-13,Hydrogeologist,90,
+2025-11-13,Intensive Care Specialist,80,
+2025-11-13,Joiner,65,
+2025-11-13,Land Economist,85,
+2025-11-13,Landscape Architect,85,
+2025-11-13,Life Scientist (General),85,
+2025-11-13,Life Scientists nec,85,
+2025-11-13,Management Consultant,85,
+2025-11-13,Marine Biologist,85,
+2025-11-13,Materials Engineer,85,
+2025-11-13,Medical Diagnostic Radiographer,75,
+2025-11-13,Medical Laboratory Scientist,85,
+2025-11-13,Medical Oncologist,80,
+2025-11-13,Medical Practitioners nec,75,
+2025-11-13,Medical Radiation Therapist,75,
+2025-11-13,Metal Fabricator,85,
+2025-11-13,Metal Machinist (First Class),95,
+2025-11-13,Metallurgist,85,
+2025-11-13,Microbiologist,85,
+2025-11-13,Midwife,75,
+2025-11-13,Mining Engineer (excluding Petroleum),85,
+2025-11-13,Motorcycle Mechanic,85,
+2025-11-13,Multimedia Specialist,90,
+2025-11-13,Musician (Instrumental),90,
+2025-11-13,Natural and Physical Science Professionals nec,85,
+2025-11-13,Neurologist,80,
+2025-11-13,Nurse Practitioner,80,
+2025-11-13,Obstetrician and Gynaecologist,75,
+2025-11-13,Occupational Therapist,75,
+2025-11-13,Ophthalmologist,80,
+2025-11-13,Optometrist,75,
+2025-11-13,Organisational Psychologist,80,
+2025-11-13,Orthopaedic Surgeon,85,
+2025-11-13,Osteopath,100,
+2025-11-13,Other Spatial Scientist,85,
+2025-11-13,Paediatrician,75,
+2025-11-13,Painting Trades Worker,70,
+2025-11-13,Pathologist,75,
+2025-11-13,Petroleum Engineer,85,
+2025-11-13,Physicist,85,
+2025-11-13,Physiotherapist,75,
+2025-11-13,Plumber (General),65,
+2025-11-13,Podiatrist,75,
+2025-11-13,Primary Health Organisation Manager,85,
+2025-11-13,Psychiatrist,75,
+2025-11-13,Psychologists nec,75,
+2025-11-13,Registered Nurse (Aged Care),75,
+2025-11-13,Registered Nurse (Child and Family Health),75,
+2025-11-13,Registered Nurse (Community Health),75,
+2025-11-13,Registered Nurse (Critical Care and Emergency),75,
+2025-11-13,Registered Nurse (Developmental Disability),80,
+2025-11-13,Registered Nurse (Disability and Rehabilitation),75,
+2025-11-13,Registered Nurse (Medical Practice),75,
+2025-11-13,Registered Nurse (Medical),75,
+2025-11-13,Registered Nurse (Mental Health),75,
+2025-11-13,Registered Nurse (Paediatrics),75,
+2025-11-13,Registered Nurse (Perioperative),75,
+2025-11-13,Registered Nurse (Surgical),75,
+2025-11-13,Registered Nurses nec,75,
+2025-11-13,Roof Plumber,70,
+2025-11-13,Secondary School Teacher,75,
+2025-11-13,Social Worker,75,
+2025-11-13,Solicitor,85,
+2025-11-13,Solid Plasterer,65,
+2025-11-13,Sonographer,75,
+2025-11-13,Special Education Teachers nec,75,
+2025-11-13,Special Needs Teacher,75,
+2025-11-13,Specialist Physician (General Medicine),80,
+2025-11-13,Specialist Physicians nec,85,
+2025-11-13,Speech Pathologist,75,
+2025-11-13,Statistician,85,
+2025-11-13,Stonemason,65,
+2025-11-13,Surgeon (General),80,
+2025-11-13,Surveyor,85,
+2025-11-13,Telecommunications Engineer,90,
+2025-11-13,Telecommunications Field Engineer,90,
+2025-11-13,Telecommunications Network Engineer,90,
+2025-11-13,Telecommunications Network Planner,90,
+2025-11-13,Telecommunications Technical Officer or Technologist,90,
+2025-11-13,Tennis Coach,85,
+2025-11-13,Thoracic Medicine Specialist,80,
+2025-11-13,Urologist,80,
+2025-11-13,Valuer,85,
+2025-11-13,Vascular Surgeon,75,
+2025-11-13,Veterinarian,85,
+2025-11-13,Wall and Floor Tiler,65,
+2025-11-13,Welder (First Class),85,
+2025-11-13,Welfare Centre Manager,85,
+2025-11-13,Zoologist,85,
+2025-08-21,Actuary,90,
+2025-08-21,Agricultural Consultant,90,
+2025-08-21,Agricultural Scientist,90,
+2025-08-21,Airconditioning and Mechanical Services Plumber,65,
+2025-08-21,Architect,90,
+2025-08-21,Arts Administrator or Manager,90,
+2025-08-21,Audiologist,80,
+2025-08-21,Barrister,95,
+2025-08-21,Biochemist,90,
+2025-08-21,Biotechnologist,90,
+2025-08-21,Boat Builder and Repairer,90,
+2025-08-21,Bricklayer,65,
+2025-08-21,Cardiologist,80,
+2025-08-21,Carpenter,65,
+2025-08-21,Carpenter and Joiner,65,
+2025-08-21,Cartographer,90,
+2025-08-21,Chemical Engineer,90,
+2025-08-21,Chemist,90,
+2025-08-21,Child Care Centre Manager,90,
+2025-08-21,Civil Engineering Draftsperson,90,
+2025-08-21,Civil Engineering Technician,90,
+2025-08-21,Clinical Psychologist,75,
+2025-08-21,Conservator,90,
+2025-08-21,Construction Project Manager,90,
+2025-08-21,Dermatologist,100,
+2025-08-21,Diagnostic and Interventional Radiologist,85,
+2025-08-21,Drainer,65,
+2025-08-21,Early Childhood (Pre-primary School) Teacher,85,
+2025-08-21,Economist,90,
+2025-08-21,Educational Psychologist,85,
+2025-08-21,Electrical Engineering Draftsperson,90,
+2025-08-21,Electrical Engineering Technician,90,
+2025-08-21,Electrician (General),65,
+2025-08-21,Electrician (Special Class),65,
+2025-08-21,Electronic Equipment Trades Worker,110,
+2025-08-21,Electronic Instrument Trades Worker (Special Class),95,
+2025-08-21,Electronics Engineer,95,
+2025-08-21,Emergency Medicine Specialist,80,
+2025-08-21,Engineering Manager,90,
+2025-08-21,Environmental Consultant,90,
+2025-08-21,Environmental Manager,90,
+2025-08-21,Environmental Research Scientist,90,
+2025-08-21,Environmental Scientists nec,90,
+2025-08-21,Fibrous Plasterer,90,
+2025-08-21,Food Technologist,90,
+2025-08-21,Forester,90,
+2025-08-21,Gasfitter,65,
+2025-08-21,Gastroenterologist,80,
+2025-08-21,General Practitioner,80,
+2025-08-21,Geophysicist,90,
+2025-08-21,Glazier,65,
+2025-08-21,Hydrogeologist,90,
+2025-08-21,Intensive Care Specialist,80,
+2025-08-21,Joiner,65,
+2025-08-21,Land Economist,90,
+2025-08-21,Landscape Architect,90,
+2025-08-21,Life Scientist (General),90,
+2025-08-21,Life Scientists nec,90,
+2025-08-21,Management Consultant,90,
+2025-08-21,Marine Biologist,90,
+2025-08-21,Materials Engineer,90,
+2025-08-21,Medical Diagnostic Radiographer,80,
+2025-08-21,Medical Laboratory Scientist,90,
+2025-08-21,Medical Practitioners nec,80,
+2025-08-21,Medical Radiation Therapist,80,
+2025-08-21,Metal Fabricator,105,
+2025-08-21,Metal Machinist (First Class),85,
+2025-08-21,Metallurgist,90,
+2025-08-21,Meteorologist,95,
+2025-08-21,Microbiologist,90,
+2025-08-21,Midwife,80,
+2025-08-21,Mining Engineer (excluding Petroleum),90,
+2025-08-21,Musician (Instrumental),90,
+2025-08-21,Natural and Physical Science Professionals nec,90,
+2025-08-21,Neurologist,80,
+2025-08-21,Nuclear Medicine Technologist,80,
+2025-08-21,Nurse Practitioner,80,
+2025-08-21,Obstetrician and Gynaecologist,80,
+2025-08-21,Occupational Therapist,80,
+2025-08-21,Ophthalmologist,80,
+2025-08-21,Optometrist,80,
+2025-08-21,Orthopaedic Surgeon,85,
+2025-08-21,Osteopath,100,
+2025-08-21,Other Spatial Scientist,90,
+2025-08-21,Paediatric Surgeon,85,
+2025-08-21,Paediatrician,85,
+2025-08-21,Painting Trades Worker,70,
+2025-08-21,Panelbeater,90,
+2025-08-21,Petroleum Engineer,90,
+2025-08-21,Physicist,90,
+2025-08-21,Physiotherapist,80,
+2025-08-21,Plumber (General),65,
+2025-08-21,Podiatrist,80,
+2025-08-21,Primary Health Organisation Manager,90,
+2025-08-21,Psychiatrist,80,
+2025-08-21,Psychologists nec,85,
+2025-08-21,Registered Nurse (Aged Care),80,
+2025-08-21,Registered Nurse (Child and Family Health),80,
+2025-08-21,Registered Nurse (Community Health),80,
+2025-08-21,Registered Nurse (Critical Care and Emergency),80,
+2025-08-21,Registered Nurse (Developmental Disability),80,
+2025-08-21,Registered Nurse (Disability and Rehabilitation),80,
+2025-08-21,Registered Nurse (Medical Practice),80,
+2025-08-21,Registered Nurse (Medical),80,
+2025-08-21,Registered Nurse (Mental Health),80,
+2025-08-21,Registered Nurse (Paediatrics),80,
+2025-08-21,Registered Nurse (Perioperative),80,
+2025-08-21,Registered Nurse (Surgical),80,
+2025-08-21,Registered Nurses nec,80,
+2025-08-21,Roof Plumber,65,
+2025-08-21,Secondary School Teacher,85,
+2025-08-21,Social Worker,85,
+2025-08-21,Solicitor,90,
+2025-08-21,Solid Plasterer,65,
+2025-08-21,Sonographer,80,
+2025-08-21,Special Needs Teacher,85,
+2025-08-21,Specialist Physician (General Medicine),80,
+2025-08-21,Specialist Physicians nec,80,
+2025-08-21,Speech Pathologist,80,
+2025-08-21,Statistician,90,
+2025-08-21,Stonemason,65,
+2025-08-21,Surveyor,90,
+2025-08-21,Tennis Coach,95,
+2025-08-21,Thoracic Medicine Specialist,80,
+2025-08-21,University Lecturer,85,
+2025-08-21,Urologist,80,
+2025-08-21,Valuer,90,
+2025-08-21,Veterinarian,90,
+2025-08-21,Wall and Floor Tiler,65,
+2025-08-21,Welder (First Class),90,
+2025-08-21,Zoologist,90,
+2024-11-07,Accountant (General),95,
+2024-11-07,Actuary,85,
+2024-11-07,Aeronautical Engineer,85,
+2024-11-07,Agricultural Consultant,85,
+2024-11-07,Agricultural Engineer,90,
+2024-11-07,Agricultural Scientist,90,
+2024-11-07,Airconditioning and Mechanical Services Plumber,70,
+2024-11-07,Analyst Programmer,85,
+2024-11-07,Architect,70,
+2024-11-07,Arts Administrator or Manager,90,
+2024-11-07,Audiologist,75,
+2024-11-07,Biochemist,90,
+2024-11-07,Biomedical Engineer,85,
+2024-11-07,Biotechnologist,85,
+2024-11-07,Boat Builder and Repairer,90,
+2024-11-07,Bricklayer,65,
+2024-11-07,Cabinetmaker,65,
+2024-11-07,Cardiothoracic Surgeon,85,
+2024-11-07,Carpenter,65,
+2024-11-07,Carpenter and Joiner,65,
+2024-11-07,Chef,85,
+2024-11-07,Chemical Engineer,85,
+2024-11-07,Chemist,90,
+2024-11-07,Child Care Centre Manager,75,
+2024-11-07,Chiropractor,75,
+2024-11-07,Civil Engineer,85,
+2024-11-07,Civil Engineering Draftsperson,70,
+2024-11-07,Civil Engineering Technician,70,
+2024-11-07,Clinical Psychologist,75,
+2024-11-07,Computer Network and Systems Engineer,95,
+2024-11-07,Construction Project Manager,70,
+2024-11-07,Dancer or Choreographer,90,
+2024-11-07,Dermatologist,75,
+2024-11-07,Developer Programmer,95,
+2024-11-07,Diagnostic and Interventional Radiologist,80,
+2024-11-07,Diesel Motor Mechanic,95,
+2024-11-07,Early Childhood (Pre-primary School) Teacher,70,
+2024-11-07,Economist,90,
+2024-11-07,Educational psychologist,75,
+2024-11-07,Electrical Engineer,85,
+2024-11-07,Electrical Engineering Draftsperson,90,
+2024-11-07,Electrical Engineering Technician,90,
+2024-11-07,Electrician (General),65,
+2024-11-07,Electronic Instrument Trades Worker (Special Class),90,
+2024-11-07,Electronics Engineer,95,
+2024-11-07,Emergency Medicine Specialist,75,
+2024-11-07,Engineering Manager,90,
+2024-11-07,Engineering Professionals nec,85,
+2024-11-07,Engineering Technologist,85,
+2024-11-07,Environmental Consultant,90,
+2024-11-07,Environmental Engineer,85,
+2024-11-07,Environmental Manager,90,
+2024-11-07,Environmental Research Scientist,90,
+2024-11-07,Environmental Scientists nec,90,
+2024-11-07,External Auditor,85,
+2024-11-07,Fibrous Plasterer,65,
+2024-11-07,Food Technologist,90,
+2024-11-07,Forester,90,
+2024-11-07,General Practitioner,75,
+2024-11-07,Geophysicist,90,
+2024-11-07,Geotechnical Engineer,70,
+2024-11-07,Hydrogeologist,90,
+2024-11-07,ICT Business Analyst,95,
+2024-11-07,ICT Security Specialist,95,
+2024-11-07,Industrial Engineer,85,
+2024-11-07,Intensive Care Specialist,75,
+2024-11-07,Internal Auditor,90,
+2024-11-07,Landscape Architect,70,
+2024-11-07,Life Scientist (General),90,
+2024-11-07,Life Scientists nec,90,
+2024-11-07,Lift Mechanic,65,
+2024-11-07,Management Accountant,95,
+2024-11-07,Management Consultant,85,
+2024-11-07,Marine Biologist,90,
+2024-11-07,Materials Engineer,85,
+2024-11-07,Mechanical Engineer,85,
+2024-11-07,Medical Diagnostic Radiographer,75,
+2024-11-07,Medical Laboratory Scientist,75,
+2024-11-07,Medical Practitioners nec,75,
+2024-11-07,Medical Radiation Therapist+,75,
+2024-11-07,Metal Fabricator,75,
+2024-11-07,Metal Machinist (First Class),90,
+2024-11-07,Metallurgist,90,
+2024-11-07,Meteorologist,90,
+2024-11-07,Microbiologist,90,
+2024-11-07,Midwife,70,
+2024-11-07,Mining Engineer (excluding Petroleum),90,
+2024-11-07,Motor Mechanic (General),85,
+2024-11-07,Multimedia Specialist,85,
+2024-11-07,Music Director,90,
+2024-11-07,Musician (Instrumental),90,
+2024-11-07,Natural and Physical Science Professionals nec,90,
+2024-11-07,Naval Architect,90,
+2024-11-07,Neurologist,75,
+2024-11-07,Nuclear Medicine Technologist,75,
+2024-11-07,Nurse Practitioner,80,
+2024-11-07,Nursing Clinical Director,115,
+2024-11-07,Obstetrician and Gynaecologist,90,
+2024-11-07,Occupational Therapist,75,
+2024-11-07,Optometrist,75,
+2024-11-07,Orthopaedic Surgeon,75,
+2024-11-07,Orthotist or Prosthetist,75,
+2024-11-07,Osteopath,75,
+2024-11-07,Other Spatial Scientist,90,
+2024-11-07,Paediatrician,75,
+2024-11-07,Painting Trades Worker,65,
+2024-11-07,Pathologist,75,
+2024-11-07,Petroleum Engineer,85,
+2024-11-07,Physicist,90,
+2024-11-07,Physiotherapist,75,
+2024-11-07,Plumber (General),65,
+2024-11-07,Podiatrist,75,
+2024-11-07,Primary Health Organisation Manager,95,
+2024-11-07,Production or Plant Engineer,85,
+2024-11-07,Psychiatrist,75,
+2024-11-07,Psychologists nec,75,
+2024-11-07,Quantity Surveyor,70,
+2024-11-07,Registered Nurse (Aged Care),70,
+2024-11-07,Registered Nurse (Child and Family Health),75,
+2024-11-07,Registered Nurse (Community Health),75,
+2024-11-07,Registered Nurse (Critical Care and Emergency),70,
+2024-11-07,Registered Nurse (Developmental Disability),75,
+2024-11-07,Registered Nurse (Disability and Rehabilitation),75,
+2024-11-07,Registered Nurse (Medical Practice),75,
+2024-11-07,Registered Nurse (Medical),70,
+2024-11-07,Registered Nurse (Mental Health),75,
+2024-11-07,Registered Nurse (Paediatrics),70,
+2024-11-07,Registered Nurse (Perioperative),75,
+2024-11-07,Registered Nurse (Surgical),75,
+2024-11-07,Registered Nurses nec,70,
+2024-11-07,Secondary School Teacher,70,
+2024-11-07,Sheetmetal Trades Worker,70,
+2024-11-07,Social Worker,70,
+2024-11-07,Software and Applications Programmers nec,85,
+2024-11-07,Software Engineer,95,
+2024-11-07,Solicitor,85,
+2024-11-07,Solid Plasterer,70,
+2024-11-07,Sonographer,75,
+2024-11-07,Special Education Teachers nec,75,
+2024-11-07,Special Needs Teacher,70,
+2024-11-07,Specialist Physician (General Medicine),75,
+2024-11-07,Specialist Physicians nec,75,
+2024-11-07,Speech Pathologist,75,
+2024-11-07,Statistician,90,
+2024-11-07,Structural Engineer,70,
+2024-11-07,Surveyor,90,
+2024-11-07,Systems Analyst,95,
+2024-11-07,Taxation Accountant,85,
+2024-11-07,Telecommunications Engineer,85,
+2024-11-07,Telecommunications Field Engineer,85,
+2024-11-07,Telecommunications Network Engineer,85,
+2024-11-07,Telecommunications Network Planner,90,
+2024-11-07,Telecommunications Technical Officer or Technologist,90,
+2024-11-07,Thoracic Medicine Specialist,75,
+2024-11-07,Transport Engineer,70,
+2024-11-07,University Lecturer,90,
+2024-11-07,Valuer,90,
+2024-11-07,Veterinarian,85,
+2024-11-07,Wall and Floor Tiler,65,
+2024-11-07,Welder (First Class),70,
+2024-11-07,Zoologist,90,
