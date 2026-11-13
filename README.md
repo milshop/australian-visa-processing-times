@@ -1,6 +1,6 @@
 # Australian visa processing times (Home Affairs), recorded daily
 
-Data behind [AusVisaClock](https://ausvisaclock.com): the Department of Home Affairs' global visa processing times for every visa subclass and stream, SkillSelect 189 invitation rounds, state and territory nominations and the skilled occupation list. Updated automatically every day; last updated 2026-11-13.
+Data behind [AusVisaClock](https://ausvisaclock.com): the Department of Home Affairs' global visa processing times for every visa subclass and stream, SkillSelect 189 invitation rounds, state and territory nominations and the skilled occupation list. Updated automatically every day; last updated 2026-11-14.
 
 Latest processing time release: 2026-11-09, covering applications decided in the period ending 2026-09-30.
 
