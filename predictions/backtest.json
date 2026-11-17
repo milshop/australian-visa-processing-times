@@ -1,0 +1,3979 @@
+[
+ {
+  "round": "2025-11-13",
+  "asAt": "2025-10",
+  "roundsUsed": [
+   "2024-11-07",
+   "2025-08-21"
+  ],
+  "summary": {
+   "occupations": 179,
+   "compared": 112,
+   "exact": 60,
+   "within5": 98,
+   "mae": 3.12,
+   "invitedAgree": 151
+  },
+  "rows": [
+   {
+    "code": "221111",
+    "name": "Accountant (General)",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "224111",
+    "name": "Actuary",
+    "pts": 85,
+    "n": 53,
+    "actual": 85
+   },
+   {
+    "code": "233911",
+    "name": "Aeronautical Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "234111",
+    "name": "Agricultural Consultant",
+    "pts": 90,
+    "n": 26,
+    "actual": 85
+   },
+   {
+    "code": "233912",
+    "name": "Agricultural Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "234112",
+    "name": "Agricultural Scientist",
+    "pts": 85,
+    "n": 38,
+    "actual": 85
+   },
+   {
+    "code": "334112",
+    "name": "Airconditioning and Mechanical Services Plumber",
+    "pts": 65,
+    "n": 26,
+    "actual": 65
+   },
+   {
+    "code": "261311",
+    "name": "Analyst Programmer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "232111",
+    "name": "Architect",
+    "pts": 95,
+    "n": 3,
+    "actual": 85
+   },
+   {
+    "code": "139911",
+    "name": "Arts Administrator or Manager",
+    "pts": 90,
+    "n": 6,
+    "actual": 85
+   },
+   {
+    "code": "252711",
+    "name": "Audiologist",
+    "pts": 80,
+    "n": 8,
+    "actual": 75
+   },
+   {
+    "code": "271111",
+    "name": "Barrister",
+    "pts": 95,
+    "n": 1,
+    "actual": 90
+   },
+   {
+    "code": "234513",
+    "name": "Biochemist",
+    "pts": 85,
+    "n": 10,
+    "actual": 85
+   },
+   {
+    "code": "233913",
+    "name": "Biomedical Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "234514",
+    "name": "Biotechnologist",
+    "pts": 90,
+    "n": 48,
+    "actual": 85
+   },
+   {
+    "code": "399111",
+    "name": "Boat Builder and Repairer",
+    "pts": 90,
+    "n": 3,
+    "actual": 85
+   },
+   {
+    "code": "331111",
+    "name": "Bricklayer",
+    "pts": 65,
+    "n": 117,
+    "actual": 65
+   },
+   {
+    "code": "394111",
+    "name": "Cabinetmaker",
+    "pts": null,
+    "n": 0,
+    "actual": 85
+   },
+   {
+    "code": "253312",
+    "name": "Cardiologist",
+    "pts": 80,
+    "n": 2,
+    "actual": 80
+   },
+   {
+    "code": "253512",
+    "name": "Cardiothoracic Surgeon",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "331212",
+    "name": "Carpenter",
+    "pts": 65,
+    "n": 954,
+    "actual": 65
+   },
+   {
+    "code": "331211",
+    "name": "Carpenter and Joiner",
+    "pts": 65,
+    "n": 30,
+    "actual": 65
+   },
+   {
+    "code": "232213",
+    "name": "Cartographer",
+    "pts": 90,
+    "n": 1,
+    "actual": 90
+   },
+   {
+    "code": "351311",
+    "name": "Chef",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "233111",
+    "name": "Chemical Engineer",
+    "pts": 90,
+    "n": 102,
+    "actual": 85
+   },
+   {
+    "code": "234211",
+    "name": "Chemist",
+    "pts": 90,
+    "n": 37,
+    "actual": 85
+   },
+   {
+    "code": "134111",
+    "name": "Child Care Centre Manager",
+    "pts": null,
+    "n": 0,
+    "actual": 75
+   },
+   {
+    "code": "252111",
+    "name": "Chiropractor",
+    "pts": null,
+    "n": 0,
+    "actual": 85
+   },
+   {
+    "code": "233211",
+    "name": "Civil Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "312211",
+    "name": "Civil Engineering Draftsperson",
+    "pts": null,
+    "n": 0,
+    "actual": 85
+   },
+   {
+    "code": "312212",
+    "name": "Civil Engineering Technician",
+    "pts": null,
+    "n": 0,
+    "actual": 85
+   },
+   {
+    "code": "272311",
+    "name": "Clinical Psychologist",
+    "pts": 85,
+    "n": 5,
+    "actual": 80
+   },
+   {
+    "code": "263111",
+    "name": "Computer Network and Systems Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "234911",
+    "name": "Conservator",
+    "pts": 75,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "133111",
+    "name": "Construction Project Manager",
+    "pts": null,
+    "n": 0,
+    "actual": 85
+   },
+   {
+    "code": "211112",
+    "name": "Dancer or Choreographer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253911",
+    "name": "Dermatologist",
+    "pts": 100,
+    "n": 1,
+    "actual": 100
+   },
+   {
+    "code": "261312",
+    "name": "Developer Programmer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253917",
+    "name": "Diagnostic and Interventional Radiologist",
+    "pts": 85,
+    "n": 3,
+    "actual": 80
+   },
+   {
+    "code": "321212",
+    "name": "Diesel Motor Mechanic",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "334113",
+    "name": "Drainer",
+    "pts": 70,
+    "n": 3,
+    "actual": 70
+   },
+   {
+    "code": "241111",
+    "name": "Early Childhood (Pre-primary School) Teacher",
+    "pts": 85,
+    "n": 553,
+    "actual": 85
+   },
+   {
+    "code": "224311",
+    "name": "Economist",
+    "pts": 85,
+    "n": 22,
+    "actual": 85
+   },
+   {
+    "code": "272312",
+    "name": "Educational Psychologist",
+    "pts": 70,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "233311",
+    "name": "Electrical Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "312311",
+    "name": "Electrical Engineering Draftsperson",
+    "pts": 85,
+    "n": 5,
+    "actual": 85
+   },
+   {
+    "code": "312312",
+    "name": "Electrical Engineering Technician",
+    "pts": 90,
+    "n": 6,
+    "actual": 85
+   },
+   {
+    "code": "341111",
+    "name": "Electrician (General)",
+    "pts": 65,
+    "n": 207,
+    "actual": 65
+   },
+   {
+    "code": "341112",
+    "name": "Electrician (Special Class)",
+    "pts": 70,
+    "n": 14,
+    "actual": 70
+   },
+   {
+    "code": "342313",
+    "name": "Electronic Equipment Trades Worker",
+    "pts": 110,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "342315",
+    "name": "Electronic Instrument Trades Worker (Special Class)",
+    "pts": 85,
+    "n": 1,
+    "actual": 95
+   },
+   {
+    "code": "233411",
+    "name": "Electronics Engineer",
+    "pts": 95,
+    "n": 24,
+    "actual": null
+   },
+   {
+    "code": "253912",
+    "name": "Emergency Medicine Specialist",
+    "pts": 70,
+    "n": 28,
+    "actual": 75
+   },
+   {
+    "code": "133211",
+    "name": "Engineering Manager",
+    "pts": 85,
+    "n": 2,
+    "actual": 85
+   },
+   {
+    "code": "233999",
+    "name": "Engineering Professionals nec",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "233914",
+    "name": "Engineering Technologist",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "234312",
+    "name": "Environmental Consultant",
+    "pts": 90,
+    "n": 56,
+    "actual": 85
+   },
+   {
+    "code": "233915",
+    "name": "Environmental Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "139912",
+    "name": "Environmental Manager",
+    "pts": 90,
+    "n": 2,
+    "actual": 85
+   },
+   {
+    "code": "234313",
+    "name": "Environmental Research Scientist",
+    "pts": 85,
+    "n": 25,
+    "actual": 85
+   },
+   {
+    "code": "234399",
+    "name": "Environmental Scientists nec",
+    "pts": 90,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "221213",
+    "name": "External Auditor",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "333211",
+    "name": "Fibrous Plasterer",
+    "pts": 65,
+    "n": 6,
+    "actual": 65
+   },
+   {
+    "code": "234212",
+    "name": "Food Technologist",
+    "pts": 90,
+    "n": 28,
+    "actual": 85
+   },
+   {
+    "code": "234113",
+    "name": "Forester",
+    "pts": 85,
+    "n": 6,
+    "actual": 85
+   },
+   {
+    "code": "334114",
+    "name": "Gasfitter",
+    "pts": 65,
+    "n": 5,
+    "actual": 65
+   },
+   {
+    "code": "253316",
+    "name": "Gastroenterologist",
+    "pts": 65,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "253111",
+    "name": "General Practitioner",
+    "pts": 75,
+    "n": 358,
+    "actual": 75
+   },
+   {
+    "code": "234412",
+    "name": "Geophysicist",
+    "pts": 90,
+    "n": 2,
+    "actual": 85
+   },
+   {
+    "code": "233212",
+    "name": "Geotechnical Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "333111",
+    "name": "Glazier",
+    "pts": 65,
+    "n": 15,
+    "actual": 65
+   },
+   {
+    "code": "234413",
+    "name": "Hydrogeologist",
+    "pts": null,
+    "n": 0,
+    "actual": 90
+   },
+   {
+    "code": "261111",
+    "name": "ICT Business Analyst",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "262112",
+    "name": "ICT Security Specialist",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "233511",
+    "name": "Industrial Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253317",
+    "name": "Intensive Care Specialist",
+    "pts": 65,
+    "n": 6,
+    "actual": 80
+   },
+   {
+    "code": "221214",
+    "name": "Internal Auditor",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "331213",
+    "name": "Joiner",
+    "pts": 65,
+    "n": 10,
+    "actual": 65
+   },
+   {
+    "code": "224511",
+    "name": "Land Economist",
+    "pts": 85,
+    "n": 2,
+    "actual": 85
+   },
+   {
+    "code": "232112",
+    "name": "Landscape Architect",
+    "pts": 95,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "234511",
+    "name": "Life Scientist (General)",
+    "pts": 85,
+    "n": 57,
+    "actual": 85
+   },
+   {
+    "code": "234599",
+    "name": "Life Scientists nec",
+    "pts": 90,
+    "n": 16,
+    "actual": 85
+   },
+   {
+    "code": "341113",
+    "name": "Lift Mechanic",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "221112",
+    "name": "Management Accountant",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "224711",
+    "name": "Management Consultant",
+    "pts": 90,
+    "n": 56,
+    "actual": 85
+   },
+   {
+    "code": "234516",
+    "name": "Marine Biologist",
+    "pts": 85,
+    "n": 13,
+    "actual": 85
+   },
+   {
+    "code": "233112",
+    "name": "Materials Engineer",
+    "pts": 85,
+    "n": 31,
+    "actual": 85
+   },
+   {
+    "code": "233512",
+    "name": "Mechanical Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "251211",
+    "name": "Medical Diagnostic Radiographer",
+    "pts": 75,
+    "n": 44,
+    "actual": 75
+   },
+   {
+    "code": "234611",
+    "name": "Medical Laboratory Scientist",
+    "pts": null,
+    "n": 0,
+    "actual": 85
+   },
+   {
+    "code": "253999",
+    "name": "Medical Practitioners nec",
+    "pts": 70,
+    "n": 287,
+    "actual": 75
+   },
+   {
+    "code": "251212",
+    "name": "Medical Radiation Therapist",
+    "pts": 75,
+    "n": 5,
+    "actual": 75
+   },
+   {
+    "code": "322311",
+    "name": "Metal Fabricator",
+    "pts": 90,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "323214",
+    "name": "Metal Machinist (First Class)",
+    "pts": 95,
+    "n": 1,
+    "actual": 95
+   },
+   {
+    "code": "234912",
+    "name": "Metallurgist",
+    "pts": 85,
+    "n": 8,
+    "actual": 85
+   },
+   {
+    "code": "234913",
+    "name": "Meteorologist",
+    "pts": 75,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "234517",
+    "name": "Microbiologist",
+    "pts": 85,
+    "n": 20,
+    "actual": 85
+   },
+   {
+    "code": "254111",
+    "name": "Midwife",
+    "pts": 75,
+    "n": 31,
+    "actual": 75
+   },
+   {
+    "code": "233611",
+    "name": "Mining Engineer (excluding Petroleum)",
+    "pts": 90,
+    "n": 14,
+    "actual": 85
+   },
+   {
+    "code": "321211",
+    "name": "Motor Mechanic (General)",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "261211",
+    "name": "Multimedia Specialist",
+    "pts": null,
+    "n": 0,
+    "actual": 90
+   },
+   {
+    "code": "211212",
+    "name": "Music Director",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "211213",
+    "name": "Musician (Instrumental)",
+    "pts": null,
+    "n": 0,
+    "actual": 90
+   },
+   {
+    "code": "234999",
+    "name": "Natural and Physical Science Professionals nec",
+    "pts": 80,
+    "n": 5,
+    "actual": 85
+   },
+   {
+    "code": "233916",
+    "name": "Naval Architect",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253318",
+    "name": "Neurologist",
+    "pts": 70,
+    "n": 2,
+    "actual": 80
+   },
+   {
+    "code": "251213",
+    "name": "Nuclear Medicine Technologist",
+    "pts": 70,
+    "n": 2,
+    "actual": null
+   },
+   {
+    "code": "254411",
+    "name": "Nurse Practitioner",
+    "pts": 70,
+    "n": 3,
+    "actual": 80
+   },
+   {
+    "code": "134212",
+    "name": "Nursing Clinical Director",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253913",
+    "name": "Obstetrician and Gynaecologist",
+    "pts": 85,
+    "n": 1,
+    "actual": 75
+   },
+   {
+    "code": "252411",
+    "name": "Occupational Therapist",
+    "pts": 75,
+    "n": 83,
+    "actual": 75
+   },
+   {
+    "code": "253914",
+    "name": "Ophthalmologist",
+    "pts": null,
+    "n": 1,
+    "actual": 80
+   },
+   {
+    "code": "251411",
+    "name": "Optometrist",
+    "pts": 75,
+    "n": 9,
+    "actual": 75
+   },
+   {
+    "code": "253514",
+    "name": "Orthopaedic Surgeon",
+    "pts": null,
+    "n": 0,
+    "actual": 85
+   },
+   {
+    "code": "251912",
+    "name": "Orthotist or Prosthetist",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "252112",
+    "name": "Osteopath",
+    "pts": null,
+    "n": 0,
+    "actual": 100
+   },
+   {
+    "code": "232214",
+    "name": "Other Spatial Scientist",
+    "pts": 90,
+    "n": 7,
+    "actual": 85
+   },
+   {
+    "code": "253321",
+    "name": "Paediatrician",
+    "pts": 75,
+    "n": 3,
+    "actual": 75
+   },
+   {
+    "code": "332211",
+    "name": "Painting Trades Worker",
+    "pts": 70,
+    "n": 247,
+    "actual": 70
+   },
+   {
+    "code": "324111",
+    "name": "Panelbeater",
+    "pts": 75,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "253915",
+    "name": "Pathologist",
+    "pts": null,
+    "n": 0,
+    "actual": 75
+   },
+   {
+    "code": "233612",
+    "name": "Petroleum Engineer",
+    "pts": 85,
+    "n": 13,
+    "actual": 85
+   },
+   {
+    "code": "234914",
+    "name": "Physicist",
+    "pts": 85,
+    "n": 18,
+    "actual": 85
+   },
+   {
+    "code": "252511",
+    "name": "Physiotherapist",
+    "pts": 75,
+    "n": 162,
+    "actual": 75
+   },
+   {
+    "code": "334111",
+    "name": "Plumber (General)",
+    "pts": 65,
+    "n": 38,
+    "actual": 65
+   },
+   {
+    "code": "252611",
+    "name": "Podiatrist",
+    "pts": 75,
+    "n": 8,
+    "actual": 75
+   },
+   {
+    "code": "134213",
+    "name": "Primary Health Organisation Manager",
+    "pts": 90,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "233513",
+    "name": "Production or Plant Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253411",
+    "name": "Psychiatrist",
+    "pts": 75,
+    "n": 6,
+    "actual": 75
+   },
+   {
+    "code": "272399",
+    "name": "Psychologists nec",
+    "pts": 85,
+    "n": 13,
+    "actual": 75
+   },
+   {
+    "code": "233213",
+    "name": "Quantity Surveyor",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "254412",
+    "name": "Registered Nurse (Aged Care)",
+    "pts": 75,
+    "n": 287,
+    "actual": 75
+   },
+   {
+    "code": "254413",
+    "name": "Registered Nurse (Child and Family Health)",
+    "pts": 75,
+    "n": 3,
+    "actual": 75
+   },
+   {
+    "code": "254414",
+    "name": "Registered Nurse (Community Health)",
+    "pts": 80,
+    "n": 15,
+    "actual": 75
+   },
+   {
+    "code": "254415",
+    "name": "Registered Nurse (Critical Care and Emergency)",
+    "pts": 75,
+    "n": 125,
+    "actual": 75
+   },
+   {
+    "code": "254416",
+    "name": "Registered Nurse (Developmental Disability)",
+    "pts": 75,
+    "n": 3,
+    "actual": 80
+   },
+   {
+    "code": "254417",
+    "name": "Registered Nurse (Disability and Rehabilitation)",
+    "pts": 80,
+    "n": 6,
+    "actual": 75
+   },
+   {
+    "code": "254421",
+    "name": "Registered Nurse (Medical Practice)",
+    "pts": 75,
+    "n": 9,
+    "actual": 75
+   },
+   {
+    "code": "254418",
+    "name": "Registered Nurse (Medical)",
+    "pts": 80,
+    "n": 105,
+    "actual": 75
+   },
+   {
+    "code": "254422",
+    "name": "Registered Nurse (Mental Health)",
+    "pts": 75,
+    "n": 56,
+    "actual": 75
+   },
+   {
+    "code": "254425",
+    "name": "Registered Nurse (Paediatrics)",
+    "pts": 75,
+    "n": 39,
+    "actual": 75
+   },
+   {
+    "code": "254423",
+    "name": "Registered Nurse (Perioperative)",
+    "pts": 80,
+    "n": 33,
+    "actual": 75
+   },
+   {
+    "code": "254424",
+    "name": "Registered Nurse (Surgical)",
+    "pts": 75,
+    "n": 59,
+    "actual": 75
+   },
+   {
+    "code": "254499",
+    "name": "Registered Nurses nec",
+    "pts": 75,
+    "n": 1033,
+    "actual": 75
+   },
+   {
+    "code": "334115",
+    "name": "Roof Plumber",
+    "pts": 65,
+    "n": 6,
+    "actual": 70
+   },
+   {
+    "code": "241411",
+    "name": "Secondary School Teacher",
+    "pts": 85,
+    "n": 41,
+    "actual": 75
+   },
+   {
+    "code": "322211",
+    "name": "Sheetmetal Trades Worker",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "272511",
+    "name": "Social Worker",
+    "pts": 85,
+    "n": 85,
+    "actual": 75
+   },
+   {
+    "code": "261313",
+    "name": "Software Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "261399",
+    "name": "Software and Applications Programmers nec",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "271311",
+    "name": "Solicitor",
+    "pts": 90,
+    "n": 105,
+    "actual": 85
+   },
+   {
+    "code": "333212",
+    "name": "Solid Plasterer",
+    "pts": 65,
+    "n": 18,
+    "actual": 65
+   },
+   {
+    "code": "251214",
+    "name": "Sonographer",
+    "pts": 70,
+    "n": 24,
+    "actual": 75
+   },
+   {
+    "code": "241599",
+    "name": "Special Education Teachers nec",
+    "pts": null,
+    "n": 0,
+    "actual": 75
+   },
+   {
+    "code": "241511",
+    "name": "Special Needs Teacher",
+    "pts": 80,
+    "n": 3,
+    "actual": 75
+   },
+   {
+    "code": "253311",
+    "name": "Specialist Physician (General Medicine)",
+    "pts": 80,
+    "n": 6,
+    "actual": 80
+   },
+   {
+    "code": "253399",
+    "name": "Specialist Physicians nec",
+    "pts": 75,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "252712",
+    "name": "Speech Pathologist",
+    "pts": 75,
+    "n": 51,
+    "actual": 75
+   },
+   {
+    "code": "224113",
+    "name": "Statistician",
+    "pts": 90,
+    "n": 75,
+    "actual": 85
+   },
+   {
+    "code": "331112",
+    "name": "Stonemason",
+    "pts": 65,
+    "n": 7,
+    "actual": 65
+   },
+   {
+    "code": "233214",
+    "name": "Structural Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "232212",
+    "name": "Surveyor",
+    "pts": 95,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "261112",
+    "name": "Systems Analyst",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "221113",
+    "name": "Taxation Accountant",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "263311",
+    "name": "Telecommunications Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": 90
+   },
+   {
+    "code": "313212",
+    "name": "Telecommunications Field Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": 90
+   },
+   {
+    "code": "263312",
+    "name": "Telecommunications Network Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": 90
+   },
+   {
+    "code": "313213",
+    "name": "Telecommunications Network Planner",
+    "pts": null,
+    "n": 0,
+    "actual": 90
+   },
+   {
+    "code": "313214",
+    "name": "Telecommunications Technical Officer or Technologist",
+    "pts": null,
+    "n": 0,
+    "actual": 90
+   },
+   {
+    "code": "452316",
+    "name": "Tennis Coach",
+    "pts": 85,
+    "n": 2,
+    "actual": 85
+   },
+   {
+    "code": "253324",
+    "name": "Thoracic Medicine Specialist",
+    "pts": 80,
+    "n": 1,
+    "actual": 80
+   },
+   {
+    "code": "233215",
+    "name": "Transport Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "242111",
+    "name": "University Lecturer",
+    "pts": 80,
+    "n": 415,
+    "actual": null
+   },
+   {
+    "code": "253518",
+    "name": "Urologist",
+    "pts": 80,
+    "n": 1,
+    "actual": 80
+   },
+   {
+    "code": "224512",
+    "name": "Valuer",
+    "pts": 90,
+    "n": 6,
+    "actual": 85
+   },
+   {
+    "code": "234711",
+    "name": "Veterinarian",
+    "pts": 90,
+    "n": 31,
+    "actual": 85
+   },
+   {
+    "code": "333411",
+    "name": "Wall and Floor Tiler",
+    "pts": 65,
+    "n": 151,
+    "actual": 65
+   },
+   {
+    "code": "322313",
+    "name": "Welder (First Class)",
+    "pts": 95,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "234518",
+    "name": "Zoologist",
+    "pts": 90,
+    "n": 3,
+    "actual": 85
+   }
+  ]
+ },
+ {
+  "round": "2026-06-04",
+  "asAt": "2026-05",
+  "roundsUsed": [
+   "2024-11-07",
+   "2025-08-21",
+   "2025-11-13"
+  ],
+  "summary": {
+   "occupations": 189,
+   "compared": 128,
+   "exact": 77,
+   "within5": 113,
+   "mae": 2.93,
+   "invitedAgree": 162
+  },
+  "rows": [
+   {
+    "code": "221111",
+    "name": "Accountant (General)",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "224111",
+    "name": "Actuary",
+    "pts": 80,
+    "n": 103,
+    "actual": 90
+   },
+   {
+    "code": "233911",
+    "name": "Aeronautical Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "234111",
+    "name": "Agricultural Consultant",
+    "pts": 85,
+    "n": 67,
+    "actual": 80
+   },
+   {
+    "code": "233912",
+    "name": "Agricultural Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "234112",
+    "name": "Agricultural Scientist",
+    "pts": 85,
+    "n": 43,
+    "actual": 80
+   },
+   {
+    "code": "334112",
+    "name": "Airconditioning and Mechanical Services Plumber",
+    "pts": 65,
+    "n": 26,
+    "actual": 65
+   },
+   {
+    "code": "261311",
+    "name": "Analyst Programmer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "232111",
+    "name": "Architect",
+    "pts": 85,
+    "n": 94,
+    "actual": 85
+   },
+   {
+    "code": "212111",
+    "name": "Artistic Director",
+    "pts": null,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "139911",
+    "name": "Arts Administrator or Manager",
+    "pts": 80,
+    "n": 10,
+    "actual": 80
+   },
+   {
+    "code": "252711",
+    "name": "Audiologist",
+    "pts": 75,
+    "n": 25,
+    "actual": 75
+   },
+   {
+    "code": "321111",
+    "name": "Automotive Electrician",
+    "pts": 80,
+    "n": 2,
+    "actual": 80
+   },
+   {
+    "code": "271111",
+    "name": "Barrister",
+    "pts": 80,
+    "n": 2,
+    "actual": 80
+   },
+   {
+    "code": "234513",
+    "name": "Biochemist",
+    "pts": 85,
+    "n": 12,
+    "actual": null
+   },
+   {
+    "code": "233913",
+    "name": "Biomedical Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "234514",
+    "name": "Biotechnologist",
+    "pts": 85,
+    "n": 111,
+    "actual": 95
+   },
+   {
+    "code": "399111",
+    "name": "Boat Builder and Repairer",
+    "pts": 80,
+    "n": 6,
+    "actual": 80
+   },
+   {
+    "code": "234515",
+    "name": "Botanist",
+    "pts": 85,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "331111",
+    "name": "Bricklayer",
+    "pts": 65,
+    "n": 117,
+    "actual": 65
+   },
+   {
+    "code": "394111",
+    "name": "Cabinetmaker",
+    "pts": 85,
+    "n": 3,
+    "actual": 80
+   },
+   {
+    "code": "253312",
+    "name": "Cardiologist",
+    "pts": 70,
+    "n": 4,
+    "actual": 80
+   },
+   {
+    "code": "253512",
+    "name": "Cardiothoracic Surgeon",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "331212",
+    "name": "Carpenter",
+    "pts": 65,
+    "n": 954,
+    "actual": 65
+   },
+   {
+    "code": "331211",
+    "name": "Carpenter and Joiner",
+    "pts": 70,
+    "n": 30,
+    "actual": 65
+   },
+   {
+    "code": "232213",
+    "name": "Cartographer",
+    "pts": 85,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "351311",
+    "name": "Chef",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "233111",
+    "name": "Chemical Engineer",
+    "pts": 80,
+    "n": 294,
+    "actual": null
+   },
+   {
+    "code": "234211",
+    "name": "Chemist",
+    "pts": 85,
+    "n": 100,
+    "actual": 85
+   },
+   {
+    "code": "134111",
+    "name": "Child Care Centre Manager",
+    "pts": 80,
+    "n": 3,
+    "actual": 80
+   },
+   {
+    "code": "252111",
+    "name": "Chiropractor",
+    "pts": 85,
+    "n": 2,
+    "actual": 80
+   },
+   {
+    "code": "233211",
+    "name": "Civil Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "312211",
+    "name": "Civil Engineering Draftsperson",
+    "pts": 85,
+    "n": 157,
+    "actual": null
+   },
+   {
+    "code": "312212",
+    "name": "Civil Engineering Technician",
+    "pts": 90,
+    "n": 71,
+    "actual": null
+   },
+   {
+    "code": "272311",
+    "name": "Clinical Psychologist",
+    "pts": 75,
+    "n": 6,
+    "actual": 75
+   },
+   {
+    "code": "263111",
+    "name": "Computer Network and Systems Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "234911",
+    "name": "Conservator",
+    "pts": 75,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "133111",
+    "name": "Construction Project Manager",
+    "pts": 85,
+    "n": 96,
+    "actual": 80
+   },
+   {
+    "code": "211112",
+    "name": "Dancer or Choreographer",
+    "pts": null,
+    "n": 0,
+    "actual": 80
+   },
+   {
+    "code": "253911",
+    "name": "Dermatologist",
+    "pts": 85,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "261312",
+    "name": "Developer Programmer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253917",
+    "name": "Diagnostic and Interventional Radiologist",
+    "pts": 70,
+    "n": 4,
+    "actual": 85
+   },
+   {
+    "code": "321212",
+    "name": "Diesel Motor Mechanic",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "334113",
+    "name": "Drainer",
+    "pts": 70,
+    "n": 3,
+    "actual": 65
+   },
+   {
+    "code": "241111",
+    "name": "Early Childhood (Pre-primary School) Teacher",
+    "pts": 85,
+    "n": 553,
+    "actual": null
+   },
+   {
+    "code": "224311",
+    "name": "Economist",
+    "pts": 85,
+    "n": 39,
+    "actual": 80
+   },
+   {
+    "code": "272312",
+    "name": "Educational Psychologist",
+    "pts": 75,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "233311",
+    "name": "Electrical Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "312311",
+    "name": "Electrical Engineering Draftsperson",
+    "pts": 85,
+    "n": 5,
+    "actual": 80
+   },
+   {
+    "code": "312312",
+    "name": "Electrical Engineering Technician",
+    "pts": 85,
+    "n": 28,
+    "actual": 80
+   },
+   {
+    "code": "341111",
+    "name": "Electrician (General)",
+    "pts": 65,
+    "n": 207,
+    "actual": 65
+   },
+   {
+    "code": "341112",
+    "name": "Electrician (Special Class)",
+    "pts": 65,
+    "n": 14,
+    "actual": 65
+   },
+   {
+    "code": "342313",
+    "name": "Electronic Equipment Trades Worker",
+    "pts": 80,
+    "n": 11,
+    "actual": 80
+   },
+   {
+    "code": "342314",
+    "name": "Electronic Instrument Trades Worker (General)",
+    "pts": 80,
+    "n": 2,
+    "actual": 80
+   },
+   {
+    "code": "342315",
+    "name": "Electronic Instrument Trades Worker (Special Class)",
+    "pts": 80,
+    "n": 2,
+    "actual": 80
+   },
+   {
+    "code": "233411",
+    "name": "Electronics Engineer",
+    "pts": 95,
+    "n": 24,
+    "actual": 95
+   },
+   {
+    "code": "253912",
+    "name": "Emergency Medicine Specialist",
+    "pts": 75,
+    "n": 28,
+    "actual": 75
+   },
+   {
+    "code": "133211",
+    "name": "Engineering Manager",
+    "pts": 80,
+    "n": 22,
+    "actual": 80
+   },
+   {
+    "code": "233999",
+    "name": "Engineering Professionals nec",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "233914",
+    "name": "Engineering Technologist",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "234312",
+    "name": "Environmental Consultant",
+    "pts": 80,
+    "n": 129,
+    "actual": 80
+   },
+   {
+    "code": "233915",
+    "name": "Environmental Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "139912",
+    "name": "Environmental Manager",
+    "pts": 85,
+    "n": 19,
+    "actual": 80
+   },
+   {
+    "code": "234313",
+    "name": "Environmental Research Scientist",
+    "pts": 85,
+    "n": 42,
+    "actual": 80
+   },
+   {
+    "code": "234399",
+    "name": "Environmental Scientists nec",
+    "pts": 85,
+    "n": 7,
+    "actual": 80
+   },
+   {
+    "code": "221213",
+    "name": "External Auditor",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "333211",
+    "name": "Fibrous Plasterer",
+    "pts": 65,
+    "n": 6,
+    "actual": 65
+   },
+   {
+    "code": "323211",
+    "name": "Fitter (General)",
+    "pts": 85,
+    "n": 8,
+    "actual": 80
+   },
+   {
+    "code": "234212",
+    "name": "Food Technologist",
+    "pts": 85,
+    "n": 121,
+    "actual": 85
+   },
+   {
+    "code": "234113",
+    "name": "Forester",
+    "pts": 80,
+    "n": 6,
+    "actual": 80
+   },
+   {
+    "code": "334114",
+    "name": "Gasfitter",
+    "pts": 70,
+    "n": 5,
+    "actual": 70
+   },
+   {
+    "code": "253316",
+    "name": "Gastroenterologist",
+    "pts": 85,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "253111",
+    "name": "General Practitioner",
+    "pts": 75,
+    "n": 358,
+    "actual": 75
+   },
+   {
+    "code": "234412",
+    "name": "Geophysicist",
+    "pts": 85,
+    "n": 6,
+    "actual": 80
+   },
+   {
+    "code": "233212",
+    "name": "Geotechnical Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "333111",
+    "name": "Glazier",
+    "pts": 65,
+    "n": 15,
+    "actual": 65
+   },
+   {
+    "code": "234413",
+    "name": "Hydrogeologist",
+    "pts": 85,
+    "n": 4,
+    "actual": 80
+   },
+   {
+    "code": "261111",
+    "name": "ICT Business Analyst",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "262112",
+    "name": "ICT Security Specialist",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "233511",
+    "name": "Industrial Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253317",
+    "name": "Intensive Care Specialist",
+    "pts": 65,
+    "n": 6,
+    "actual": 80
+   },
+   {
+    "code": "221214",
+    "name": "Internal Auditor",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "331213",
+    "name": "Joiner",
+    "pts": 65,
+    "n": 10,
+    "actual": 65
+   },
+   {
+    "code": "224511",
+    "name": "Land Economist",
+    "pts": 80,
+    "n": 11,
+    "actual": 80
+   },
+   {
+    "code": "232112",
+    "name": "Landscape Architect",
+    "pts": 85,
+    "n": 17,
+    "actual": 85
+   },
+   {
+    "code": "234511",
+    "name": "Life Scientist (General)",
+    "pts": 85,
+    "n": 78,
+    "actual": 95
+   },
+   {
+    "code": "234599",
+    "name": "Life Scientists nec",
+    "pts": 85,
+    "n": 32,
+    "actual": 95
+   },
+   {
+    "code": "341113",
+    "name": "Lift Mechanic",
+    "pts": null,
+    "n": 0,
+    "actual": 80
+   },
+   {
+    "code": "221112",
+    "name": "Management Accountant",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "224711",
+    "name": "Management Consultant",
+    "pts": 80,
+    "n": 182,
+    "actual": 80
+   },
+   {
+    "code": "234516",
+    "name": "Marine Biologist",
+    "pts": 85,
+    "n": 13,
+    "actual": 95
+   },
+   {
+    "code": "233112",
+    "name": "Materials Engineer",
+    "pts": 85,
+    "n": 41,
+    "actual": null
+   },
+   {
+    "code": "233512",
+    "name": "Mechanical Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "251211",
+    "name": "Medical Diagnostic Radiographer",
+    "pts": 75,
+    "n": 48,
+    "actual": 80
+   },
+   {
+    "code": "234611",
+    "name": "Medical Laboratory Scientist",
+    "pts": 85,
+    "n": 33,
+    "actual": 80
+   },
+   {
+    "code": "253314",
+    "name": "Medical Oncologist",
+    "pts": 70,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "253999",
+    "name": "Medical Practitioners nec",
+    "pts": 75,
+    "n": 287,
+    "actual": 75
+   },
+   {
+    "code": "251212",
+    "name": "Medical Radiation Therapist",
+    "pts": 75,
+    "n": 5,
+    "actual": 80
+   },
+   {
+    "code": "322311",
+    "name": "Metal Fabricator",
+    "pts": 80,
+    "n": 8,
+    "actual": 80
+   },
+   {
+    "code": "323214",
+    "name": "Metal Machinist (First Class)",
+    "pts": 85,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "234912",
+    "name": "Metallurgist",
+    "pts": 85,
+    "n": 10,
+    "actual": 80
+   },
+   {
+    "code": "234913",
+    "name": "Meteorologist",
+    "pts": 95,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "234517",
+    "name": "Microbiologist",
+    "pts": 85,
+    "n": 36,
+    "actual": 95
+   },
+   {
+    "code": "254111",
+    "name": "Midwife",
+    "pts": 75,
+    "n": 32,
+    "actual": 75
+   },
+   {
+    "code": "233611",
+    "name": "Mining Engineer (excluding Petroleum)",
+    "pts": 85,
+    "n": 51,
+    "actual": 80
+   },
+   {
+    "code": "321211",
+    "name": "Motor Mechanic (General)",
+    "pts": 95,
+    "n": 6,
+    "actual": null
+   },
+   {
+    "code": "321213",
+    "name": "Motorcycle Mechanic",
+    "pts": 85,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "261211",
+    "name": "Multimedia Specialist",
+    "pts": 95,
+    "n": 42,
+    "actual": 95
+   },
+   {
+    "code": "211212",
+    "name": "Music Director",
+    "pts": null,
+    "n": 0,
+    "actual": 80
+   },
+   {
+    "code": "211213",
+    "name": "Musician (Instrumental)",
+    "pts": null,
+    "n": 0,
+    "actual": 80
+   },
+   {
+    "code": "234999",
+    "name": "Natural and Physical Science Professionals nec",
+    "pts": 85,
+    "n": 5,
+    "actual": 80
+   },
+   {
+    "code": "233916",
+    "name": "Naval Architect",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253318",
+    "name": "Neurologist",
+    "pts": 75,
+    "n": 2,
+    "actual": null
+   },
+   {
+    "code": "251213",
+    "name": "Nuclear Medicine Technologist",
+    "pts": 70,
+    "n": 2,
+    "actual": 80
+   },
+   {
+    "code": "254411",
+    "name": "Nurse Practitioner",
+    "pts": 80,
+    "n": 3,
+    "actual": 80
+   },
+   {
+    "code": "134212",
+    "name": "Nursing Clinical Director",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253913",
+    "name": "Obstetrician and Gynaecologist",
+    "pts": 85,
+    "n": 2,
+    "actual": 85
+   },
+   {
+    "code": "252411",
+    "name": "Occupational Therapist",
+    "pts": 75,
+    "n": 153,
+    "actual": 75
+   },
+   {
+    "code": "253914",
+    "name": "Ophthalmologist",
+    "pts": 80,
+    "n": 1,
+    "actual": 80
+   },
+   {
+    "code": "251411",
+    "name": "Optometrist",
+    "pts": 75,
+    "n": 9,
+    "actual": 80
+   },
+   {
+    "code": "272313",
+    "name": "Organisational Psychologist",
+    "pts": 80,
+    "n": 1,
+    "actual": 80
+   },
+   {
+    "code": "253514",
+    "name": "Orthopaedic Surgeon",
+    "pts": 85,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "251912",
+    "name": "Orthotist or Prosthetist",
+    "pts": null,
+    "n": 0,
+    "actual": 80
+   },
+   {
+    "code": "252112",
+    "name": "Osteopath",
+    "pts": null,
+    "n": 0,
+    "actual": 80
+   },
+   {
+    "code": "232214",
+    "name": "Other Spatial Scientist",
+    "pts": 85,
+    "n": 32,
+    "actual": 80
+   },
+   {
+    "code": "253321",
+    "name": "Paediatrician",
+    "pts": 75,
+    "n": 5,
+    "actual": 75
+   },
+   {
+    "code": "332211",
+    "name": "Painting Trades Worker",
+    "pts": 70,
+    "n": 247,
+    "actual": null
+   },
+   {
+    "code": "324111",
+    "name": "Panelbeater",
+    "pts": 85,
+    "n": 1,
+    "actual": 80
+   },
+   {
+    "code": "253915",
+    "name": "Pathologist",
+    "pts": 70,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "233612",
+    "name": "Petroleum Engineer",
+    "pts": 85,
+    "n": 44,
+    "actual": 80
+   },
+   {
+    "code": "234914",
+    "name": "Physicist",
+    "pts": 80,
+    "n": 29,
+    "actual": 80
+   },
+   {
+    "code": "252511",
+    "name": "Physiotherapist",
+    "pts": 75,
+    "n": 233,
+    "actual": 75
+   },
+   {
+    "code": "334111",
+    "name": "Plumber (General)",
+    "pts": 65,
+    "n": 38,
+    "actual": 65
+   },
+   {
+    "code": "252611",
+    "name": "Podiatrist",
+    "pts": 75,
+    "n": 10,
+    "actual": 75
+   },
+   {
+    "code": "134213",
+    "name": "Primary Health Organisation Manager",
+    "pts": 80,
+    "n": 4,
+    "actual": 80
+   },
+   {
+    "code": "233513",
+    "name": "Production or Plant Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253411",
+    "name": "Psychiatrist",
+    "pts": 80,
+    "n": 8,
+    "actual": 80
+   },
+   {
+    "code": "272399",
+    "name": "Psychologists nec",
+    "pts": 80,
+    "n": 63,
+    "actual": 75
+   },
+   {
+    "code": "233213",
+    "name": "Quantity Surveyor",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "254412",
+    "name": "Registered Nurse (Aged Care)",
+    "pts": 75,
+    "n": 434,
+    "actual": 75
+   },
+   {
+    "code": "254413",
+    "name": "Registered Nurse (Child and Family Health)",
+    "pts": 80,
+    "n": 4,
+    "actual": 80
+   },
+   {
+    "code": "254414",
+    "name": "Registered Nurse (Community Health)",
+    "pts": 75,
+    "n": 22,
+    "actual": 75
+   },
+   {
+    "code": "254415",
+    "name": "Registered Nurse (Critical Care and Emergency)",
+    "pts": 75,
+    "n": 227,
+    "actual": 75
+   },
+   {
+    "code": "254416",
+    "name": "Registered Nurse (Developmental Disability)",
+    "pts": 80,
+    "n": 3,
+    "actual": 80
+   },
+   {
+    "code": "254417",
+    "name": "Registered Nurse (Disability and Rehabilitation)",
+    "pts": 75,
+    "n": 20,
+    "actual": 80
+   },
+   {
+    "code": "254421",
+    "name": "Registered Nurse (Medical Practice)",
+    "pts": 80,
+    "n": 17,
+    "actual": 75
+   },
+   {
+    "code": "254418",
+    "name": "Registered Nurse (Medical)",
+    "pts": 75,
+    "n": 216,
+    "actual": 75
+   },
+   {
+    "code": "254422",
+    "name": "Registered Nurse (Mental Health)",
+    "pts": 75,
+    "n": 94,
+    "actual": 75
+   },
+   {
+    "code": "254425",
+    "name": "Registered Nurse (Paediatrics)",
+    "pts": 75,
+    "n": 52,
+    "actual": 80
+   },
+   {
+    "code": "254423",
+    "name": "Registered Nurse (Perioperative)",
+    "pts": 75,
+    "n": 115,
+    "actual": 75
+   },
+   {
+    "code": "254424",
+    "name": "Registered Nurse (Surgical)",
+    "pts": 75,
+    "n": 110,
+    "actual": 75
+   },
+   {
+    "code": "254499",
+    "name": "Registered Nurses nec",
+    "pts": 75,
+    "n": 1616,
+    "actual": 75
+   },
+   {
+    "code": "334115",
+    "name": "Roof Plumber",
+    "pts": 65,
+    "n": 6,
+    "actual": 65
+   },
+   {
+    "code": "241411",
+    "name": "Secondary School Teacher",
+    "pts": 75,
+    "n": 566,
+    "actual": 75
+   },
+   {
+    "code": "322211",
+    "name": "Sheetmetal Trades Worker",
+    "pts": null,
+    "n": 0,
+    "actual": 80
+   },
+   {
+    "code": "272511",
+    "name": "Social Worker",
+    "pts": 75,
+    "n": 489,
+    "actual": 75
+   },
+   {
+    "code": "261313",
+    "name": "Software Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "261399",
+    "name": "Software and Applications Programmers nec",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "271311",
+    "name": "Solicitor",
+    "pts": 80,
+    "n": 283,
+    "actual": 80
+   },
+   {
+    "code": "333212",
+    "name": "Solid Plasterer",
+    "pts": 65,
+    "n": 18,
+    "actual": 65
+   },
+   {
+    "code": "251214",
+    "name": "Sonographer",
+    "pts": 65,
+    "n": 24,
+    "actual": 85
+   },
+   {
+    "code": "241599",
+    "name": "Special Education Teachers nec",
+    "pts": 75,
+    "n": 3,
+    "actual": 85
+   },
+   {
+    "code": "241511",
+    "name": "Special Needs Teacher",
+    "pts": 75,
+    "n": 10,
+    "actual": 75
+   },
+   {
+    "code": "253311",
+    "name": "Specialist Physician (General Medicine)",
+    "pts": 75,
+    "n": 6,
+    "actual": 80
+   },
+   {
+    "code": "253399",
+    "name": "Specialist Physicians nec",
+    "pts": 100,
+    "n": 1,
+    "actual": 80
+   },
+   {
+    "code": "252712",
+    "name": "Speech Pathologist",
+    "pts": 80,
+    "n": 51,
+    "actual": 75
+   },
+   {
+    "code": "224113",
+    "name": "Statistician",
+    "pts": 85,
+    "n": 188,
+    "actual": 90
+   },
+   {
+    "code": "331112",
+    "name": "Stonemason",
+    "pts": 65,
+    "n": 7,
+    "actual": 65
+   },
+   {
+    "code": "233214",
+    "name": "Structural Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253511",
+    "name": "Surgeon (General)",
+    "pts": 85,
+    "n": 2,
+    "actual": 85
+   },
+   {
+    "code": "232212",
+    "name": "Surveyor",
+    "pts": 80,
+    "n": 14,
+    "actual": 80
+   },
+   {
+    "code": "261112",
+    "name": "Systems Analyst",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "221113",
+    "name": "Taxation Accountant",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "263311",
+    "name": "Telecommunications Engineer",
+    "pts": 95,
+    "n": 34,
+    "actual": 95
+   },
+   {
+    "code": "313212",
+    "name": "Telecommunications Field Engineer",
+    "pts": 90,
+    "n": 2,
+    "actual": null
+   },
+   {
+    "code": "263312",
+    "name": "Telecommunications Network Engineer",
+    "pts": 90,
+    "n": 10,
+    "actual": 95
+   },
+   {
+    "code": "313213",
+    "name": "Telecommunications Network Planner",
+    "pts": 90,
+    "n": 5,
+    "actual": null
+   },
+   {
+    "code": "313214",
+    "name": "Telecommunications Technical Officer or Technologist",
+    "pts": 90,
+    "n": 2,
+    "actual": null
+   },
+   {
+    "code": "452316",
+    "name": "Tennis Coach",
+    "pts": 85,
+    "n": 2,
+    "actual": 80
+   },
+   {
+    "code": "253324",
+    "name": "Thoracic Medicine Specialist",
+    "pts": 95,
+    "n": 1,
+    "actual": 95
+   },
+   {
+    "code": "233215",
+    "name": "Transport Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "242111",
+    "name": "University Lecturer",
+    "pts": 85,
+    "n": 415,
+    "actual": null
+   },
+   {
+    "code": "253518",
+    "name": "Urologist",
+    "pts": 75,
+    "n": 1,
+    "actual": 100
+   },
+   {
+    "code": "224512",
+    "name": "Valuer",
+    "pts": 80,
+    "n": 17,
+    "actual": 80
+   },
+   {
+    "code": "234711",
+    "name": "Veterinarian",
+    "pts": 80,
+    "n": 106,
+    "actual": 80
+   },
+   {
+    "code": "333411",
+    "name": "Wall and Floor Tiler",
+    "pts": 65,
+    "n": 151,
+    "actual": 65
+   },
+   {
+    "code": "322313",
+    "name": "Welder (First Class)",
+    "pts": 85,
+    "n": 8,
+    "actual": 80
+   },
+   {
+    "code": "134214",
+    "name": "Welfare Centre Manager",
+    "pts": 85,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "234518",
+    "name": "Zoologist",
+    "pts": 85,
+    "n": 7,
+    "actual": null
+   }
+  ]
+ },
+ {
+  "round": "2026-10-15",
+  "asAt": "2026-09",
+  "roundsUsed": [
+   "2024-11-07",
+   "2025-08-21",
+   "2025-11-13",
+   "2026-06-04"
+  ],
+  "summary": {
+   "occupations": 192,
+   "compared": 149,
+   "exact": 44,
+   "within5": 114,
+   "mae": 5.17,
+   "invitedAgree": 165
+  },
+  "rows": [
+   {
+    "code": "221111",
+    "name": "Accountant (General)",
+    "pts": 105,
+    "n": 7,
+    "actual": null
+   },
+   {
+    "code": "224111",
+    "name": "Actuary",
+    "pts": 80,
+    "n": 103,
+    "actual": 85
+   },
+   {
+    "code": "233911",
+    "name": "Aeronautical Engineer",
+    "pts": 105,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "234111",
+    "name": "Agricultural Consultant",
+    "pts": 80,
+    "n": 161,
+    "actual": 80
+   },
+   {
+    "code": "233912",
+    "name": "Agricultural Engineer",
+    "pts": 95,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "234112",
+    "name": "Agricultural Scientist",
+    "pts": 80,
+    "n": 105,
+    "actual": 80
+   },
+   {
+    "code": "334112",
+    "name": "Airconditioning and Mechanical Services Plumber",
+    "pts": 65,
+    "n": 26,
+    "actual": 65
+   },
+   {
+    "code": "342111",
+    "name": "Airconditioning and Refrigeration Mechanic",
+    "pts": 75,
+    "n": 3,
+    "actual": 65
+   },
+   {
+    "code": "261311",
+    "name": "Analyst Programmer",
+    "pts": 105,
+    "n": 4,
+    "actual": null
+   },
+   {
+    "code": "232111",
+    "name": "Architect",
+    "pts": 85,
+    "n": 105,
+    "actual": 85
+   },
+   {
+    "code": "212111",
+    "name": "Artistic Director",
+    "pts": null,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "139911",
+    "name": "Arts Administrator or Manager",
+    "pts": 70,
+    "n": 18,
+    "actual": 65
+   },
+   {
+    "code": "252711",
+    "name": "Audiologist",
+    "pts": 75,
+    "n": 25,
+    "actual": 70
+   },
+   {
+    "code": "321111",
+    "name": "Automotive Electrician",
+    "pts": 75,
+    "n": 7,
+    "actual": 65
+   },
+   {
+    "code": "271111",
+    "name": "Barrister",
+    "pts": 80,
+    "n": 2,
+    "actual": 70
+   },
+   {
+    "code": "234513",
+    "name": "Biochemist",
+    "pts": 95,
+    "n": 12,
+    "actual": null
+   },
+   {
+    "code": "233913",
+    "name": "Biomedical Engineer",
+    "pts": 115,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "234514",
+    "name": "Biotechnologist",
+    "pts": 85,
+    "n": 111,
+    "actual": 90
+   },
+   {
+    "code": "399111",
+    "name": "Boat Builder and Repairer",
+    "pts": 70,
+    "n": 7,
+    "actual": 65
+   },
+   {
+    "code": "234515",
+    "name": "Botanist",
+    "pts": 80,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "331111",
+    "name": "Bricklayer",
+    "pts": 65,
+    "n": 117,
+    "actual": 65
+   },
+   {
+    "code": "394111",
+    "name": "Cabinetmaker",
+    "pts": 80,
+    "n": 7,
+    "actual": 65
+   },
+   {
+    "code": "253312",
+    "name": "Cardiologist",
+    "pts": 65,
+    "n": 4,
+    "actual": 75
+   },
+   {
+    "code": "253512",
+    "name": "Cardiothoracic Surgeon",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "331212",
+    "name": "Carpenter",
+    "pts": 65,
+    "n": 954,
+    "actual": 65
+   },
+   {
+    "code": "331211",
+    "name": "Carpenter and Joiner",
+    "pts": 65,
+    "n": 48,
+    "actual": 65
+   },
+   {
+    "code": "232213",
+    "name": "Cartographer",
+    "pts": 85,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "351311",
+    "name": "Chef",
+    "pts": 100,
+    "n": 4,
+    "actual": null
+   },
+   {
+    "code": "233111",
+    "name": "Chemical Engineer",
+    "pts": 85,
+    "n": 294,
+    "actual": 85
+   },
+   {
+    "code": "234211",
+    "name": "Chemist",
+    "pts": 85,
+    "n": 100,
+    "actual": 80
+   },
+   {
+    "code": "134111",
+    "name": "Child Care Centre Manager",
+    "pts": 80,
+    "n": 5,
+    "actual": 85
+   },
+   {
+    "code": "252111",
+    "name": "Chiropractor",
+    "pts": 80,
+    "n": 21,
+    "actual": 80
+   },
+   {
+    "code": "233211",
+    "name": "Civil Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "312211",
+    "name": "Civil Engineering Draftsperson",
+    "pts": 85,
+    "n": 157,
+    "actual": null
+   },
+   {
+    "code": "312212",
+    "name": "Civil Engineering Technician",
+    "pts": 90,
+    "n": 71,
+    "actual": null
+   },
+   {
+    "code": "272311",
+    "name": "Clinical Psychologist",
+    "pts": 75,
+    "n": 7,
+    "actual": 90
+   },
+   {
+    "code": "263111",
+    "name": "Computer Network and Systems Engineer",
+    "pts": 105,
+    "n": 2,
+    "actual": null
+   },
+   {
+    "code": "234911",
+    "name": "Conservator",
+    "pts": 90,
+    "n": 1,
+    "actual": 90
+   },
+   {
+    "code": "133111",
+    "name": "Construction Project Manager",
+    "pts": 80,
+    "n": 426,
+    "actual": 80
+   },
+   {
+    "code": "211112",
+    "name": "Dancer or Choreographer",
+    "pts": 75,
+    "n": 5,
+    "actual": 65
+   },
+   {
+    "code": "253911",
+    "name": "Dermatologist",
+    "pts": 85,
+    "n": 1,
+    "actual": 85
+   },
+   {
+    "code": "261312",
+    "name": "Developer Programmer",
+    "pts": 125,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "253917",
+    "name": "Diagnostic and Interventional Radiologist",
+    "pts": 80,
+    "n": 4,
+    "actual": 75
+   },
+   {
+    "code": "321212",
+    "name": "Diesel Motor Mechanic",
+    "pts": 125,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "334113",
+    "name": "Drainer",
+    "pts": 65,
+    "n": 5,
+    "actual": 65
+   },
+   {
+    "code": "241111",
+    "name": "Early Childhood (Pre-primary School) Teacher",
+    "pts": 85,
+    "n": 553,
+    "actual": 90
+   },
+   {
+    "code": "224311",
+    "name": "Economist",
+    "pts": 75,
+    "n": 100,
+    "actual": 65
+   },
+   {
+    "code": "272312",
+    "name": "Educational Psychologist",
+    "pts": 85,
+    "n": 1,
+    "actual": 65
+   },
+   {
+    "code": "233311",
+    "name": "Electrical Engineer",
+    "pts": 100,
+    "n": 8,
+    "actual": null
+   },
+   {
+    "code": "312311",
+    "name": "Electrical Engineering Draftsperson",
+    "pts": 85,
+    "n": 17,
+    "actual": 65
+   },
+   {
+    "code": "312312",
+    "name": "Electrical Engineering Technician",
+    "pts": 75,
+    "n": 79,
+    "actual": 65
+   },
+   {
+    "code": "341111",
+    "name": "Electrician (General)",
+    "pts": 65,
+    "n": 207,
+    "actual": 65
+   },
+   {
+    "code": "341112",
+    "name": "Electrician (Special Class)",
+    "pts": 65,
+    "n": 14,
+    "actual": 65
+   },
+   {
+    "code": "342313",
+    "name": "Electronic Equipment Trades Worker",
+    "pts": 75,
+    "n": 19,
+    "actual": 65
+   },
+   {
+    "code": "342314",
+    "name": "Electronic Instrument Trades Worker (General)",
+    "pts": 80,
+    "n": 3,
+    "actual": 65
+   },
+   {
+    "code": "342315",
+    "name": "Electronic Instrument Trades Worker (Special Class)",
+    "pts": 75,
+    "n": 6,
+    "actual": 65
+   },
+   {
+    "code": "233411",
+    "name": "Electronics Engineer",
+    "pts": 95,
+    "n": 24,
+    "actual": 95
+   },
+   {
+    "code": "253912",
+    "name": "Emergency Medicine Specialist",
+    "pts": 75,
+    "n": 28,
+    "actual": 70
+   },
+   {
+    "code": "133211",
+    "name": "Engineering Manager",
+    "pts": 75,
+    "n": 48,
+    "actual": 80
+   },
+   {
+    "code": "233999",
+    "name": "Engineering Professionals nec",
+    "pts": 105,
+    "n": 2,
+    "actual": null
+   },
+   {
+    "code": "233914",
+    "name": "Engineering Technologist",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "234312",
+    "name": "Environmental Consultant",
+    "pts": 75,
+    "n": 165,
+    "actual": 65
+   },
+   {
+    "code": "233915",
+    "name": "Environmental Engineer",
+    "pts": 100,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "139912",
+    "name": "Environmental Manager",
+    "pts": 75,
+    "n": 38,
+    "actual": 65
+   },
+   {
+    "code": "234313",
+    "name": "Environmental Research Scientist",
+    "pts": 75,
+    "n": 62,
+    "actual": 65
+   },
+   {
+    "code": "234399",
+    "name": "Environmental Scientists nec",
+    "pts": 65,
+    "n": 17,
+    "actual": 65
+   },
+   {
+    "code": "221213",
+    "name": "External Auditor",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "333211",
+    "name": "Fibrous Plasterer",
+    "pts": 65,
+    "n": 10,
+    "actual": 65
+   },
+   {
+    "code": "323211",
+    "name": "Fitter (General)",
+    "pts": 75,
+    "n": 29,
+    "actual": 80
+   },
+   {
+    "code": "323212",
+    "name": "Fitter and Turner",
+    "pts": 70,
+    "n": 3,
+    "actual": null
+   },
+   {
+    "code": "234212",
+    "name": "Food Technologist",
+    "pts": 85,
+    "n": 121,
+    "actual": 80
+   },
+   {
+    "code": "452411",
+    "name": "Footballer",
+    "pts": 80,
+    "n": 1,
+    "actual": 70
+   },
+   {
+    "code": "234113",
+    "name": "Forester",
+    "pts": 75,
+    "n": 8,
+    "actual": 80
+   },
+   {
+    "code": "334114",
+    "name": "Gasfitter",
+    "pts": 70,
+    "n": 5,
+    "actual": 70
+   },
+   {
+    "code": "253316",
+    "name": "Gastroenterologist",
+    "pts": 85,
+    "n": 1,
+    "actual": 75
+   },
+   {
+    "code": "253111",
+    "name": "General Practitioner",
+    "pts": 75,
+    "n": 368,
+    "actual": 70
+   },
+   {
+    "code": "234412",
+    "name": "Geophysicist",
+    "pts": 75,
+    "n": 12,
+    "actual": 80
+   },
+   {
+    "code": "233212",
+    "name": "Geotechnical Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "333111",
+    "name": "Glazier",
+    "pts": 65,
+    "n": 15,
+    "actual": 65
+   },
+   {
+    "code": "234413",
+    "name": "Hydrogeologist",
+    "pts": 75,
+    "n": 12,
+    "actual": 80
+   },
+   {
+    "code": "261111",
+    "name": "ICT Business Analyst",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "262112",
+    "name": "ICT Security Specialist",
+    "pts": null,
+    "n": 0,
+    "actual": 100
+   },
+   {
+    "code": "233511",
+    "name": "Industrial Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253317",
+    "name": "Intensive Care Specialist",
+    "pts": 65,
+    "n": 6,
+    "actual": 75
+   },
+   {
+    "code": "221214",
+    "name": "Internal Auditor",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "331213",
+    "name": "Joiner",
+    "pts": 65,
+    "n": 10,
+    "actual": 65
+   },
+   {
+    "code": "224511",
+    "name": "Land Economist",
+    "pts": 75,
+    "n": 16,
+    "actual": 65
+   },
+   {
+    "code": "232112",
+    "name": "Landscape Architect",
+    "pts": 85,
+    "n": 17,
+    "actual": 85
+   },
+   {
+    "code": "234511",
+    "name": "Life Scientist (General)",
+    "pts": 85,
+    "n": 78,
+    "actual": 90
+   },
+   {
+    "code": "234599",
+    "name": "Life Scientists nec",
+    "pts": 85,
+    "n": 32,
+    "actual": 90
+   },
+   {
+    "code": "341113",
+    "name": "Lift mechanic",
+    "pts": 80,
+    "n": 1,
+    "actual": 80
+   },
+   {
+    "code": "221112",
+    "name": "Management Accountant",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "224711",
+    "name": "Management Consultant",
+    "pts": 75,
+    "n": 297,
+    "actual": 80
+   },
+   {
+    "code": "234516",
+    "name": "Marine Biologist",
+    "pts": 90,
+    "n": 13,
+    "actual": 95
+   },
+   {
+    "code": "233112",
+    "name": "Materials Engineer",
+    "pts": 85,
+    "n": 41,
+    "actual": 85
+   },
+   {
+    "code": "233512",
+    "name": "Mechanical Engineer",
+    "pts": 100,
+    "n": 8,
+    "actual": null
+   },
+   {
+    "code": "251211",
+    "name": "Medical Diagnostic Radiographer",
+    "pts": 75,
+    "n": 48,
+    "actual": 70
+   },
+   {
+    "code": "234611",
+    "name": "Medical Laboratory Scientist",
+    "pts": 80,
+    "n": 151,
+    "actual": 80
+   },
+   {
+    "code": "253314",
+    "name": "Medical Oncologist",
+    "pts": 70,
+    "n": 1,
+    "actual": 70
+   },
+   {
+    "code": "253999",
+    "name": "Medical Practitioners nec",
+    "pts": 75,
+    "n": 290,
+    "actual": 70
+   },
+   {
+    "code": "251212",
+    "name": "Medical Radiation Therapist",
+    "pts": 75,
+    "n": 5,
+    "actual": 75
+   },
+   {
+    "code": "322311",
+    "name": "Metal Fabricator",
+    "pts": 80,
+    "n": 15,
+    "actual": 80
+   },
+   {
+    "code": "323214",
+    "name": "Metal Machinist (First Class)",
+    "pts": 75,
+    "n": 2,
+    "actual": 80
+   },
+   {
+    "code": "234912",
+    "name": "Metallurgist",
+    "pts": 75,
+    "n": 21,
+    "actual": 80
+   },
+   {
+    "code": "234913",
+    "name": "Meteorologist",
+    "pts": 70,
+    "n": 3,
+    "actual": 85
+   },
+   {
+    "code": "234517",
+    "name": "Microbiologist",
+    "pts": 90,
+    "n": 36,
+    "actual": 90
+   },
+   {
+    "code": "254111",
+    "name": "Midwife",
+    "pts": 75,
+    "n": 32,
+    "actual": 70
+   },
+   {
+    "code": "233611",
+    "name": "Mining Engineer (excluding Petroleum)",
+    "pts": 75,
+    "n": 132,
+    "actual": 80
+   },
+   {
+    "code": "321211",
+    "name": "Motor Mechanic (General)",
+    "pts": 95,
+    "n": 6,
+    "actual": null
+   },
+   {
+    "code": "321213",
+    "name": "Motorcycle Mechanic",
+    "pts": 85,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "261211",
+    "name": "Multimedia Specialist",
+    "pts": 95,
+    "n": 42,
+    "actual": 90
+   },
+   {
+    "code": "211212",
+    "name": "Music Director",
+    "pts": 70,
+    "n": 1,
+    "actual": 70
+   },
+   {
+    "code": "211213",
+    "name": "Musician (Instrumental)",
+    "pts": 70,
+    "n": 7,
+    "actual": 65
+   },
+   {
+    "code": "234999",
+    "name": "Natural and Physical Science Professionals nec",
+    "pts": 65,
+    "n": 21,
+    "actual": 85
+   },
+   {
+    "code": "233916",
+    "name": "Naval Architect",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253318",
+    "name": "Neurologist",
+    "pts": 75,
+    "n": 2,
+    "actual": 75
+   },
+   {
+    "code": "251213",
+    "name": "Nuclear Medicine Technologist",
+    "pts": 70,
+    "n": 2,
+    "actual": 70
+   },
+   {
+    "code": "254411",
+    "name": "Nurse Practitioner",
+    "pts": 75,
+    "n": 3,
+    "actual": 70
+   },
+   {
+    "code": "134212",
+    "name": "Nursing Clinical Director",
+    "pts": null,
+    "n": 0,
+    "actual": 75
+   },
+   {
+    "code": "253913",
+    "name": "Obstetrician and Gynaecologist",
+    "pts": 80,
+    "n": 2,
+    "actual": 70
+   },
+   {
+    "code": "252411",
+    "name": "Occupational Therapist",
+    "pts": 75,
+    "n": 153,
+    "actual": 70
+   },
+   {
+    "code": "253914",
+    "name": "Ophthalmologist",
+    "pts": 85,
+    "n": 1,
+    "actual": 80
+   },
+   {
+    "code": "251411",
+    "name": "Optometrist",
+    "pts": 80,
+    "n": 10,
+    "actual": 80
+   },
+   {
+    "code": "272313",
+    "name": "Organisational Psychologist",
+    "pts": 65,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "253514",
+    "name": "Orthopaedic Surgeon",
+    "pts": 85,
+    "n": 1,
+    "actual": 80
+   },
+   {
+    "code": "251912",
+    "name": "Orthotist or Prosthetist",
+    "pts": 80,
+    "n": 1,
+    "actual": 80
+   },
+   {
+    "code": "252112",
+    "name": "Osteopath",
+    "pts": 75,
+    "n": 4,
+    "actual": 80
+   },
+   {
+    "code": "232214",
+    "name": "Other Spatial Scientist",
+    "pts": 75,
+    "n": 47,
+    "actual": 80
+   },
+   {
+    "code": "253321",
+    "name": "Paediatrician",
+    "pts": 75,
+    "n": 5,
+    "actual": 70
+   },
+   {
+    "code": "332211",
+    "name": "Painting Trades Worker",
+    "pts": 75,
+    "n": 247,
+    "actual": 70
+   },
+   {
+    "code": "324111",
+    "name": "Panelbeater",
+    "pts": 70,
+    "n": 4,
+    "actual": 65
+   },
+   {
+    "code": "253915",
+    "name": "Pathologist",
+    "pts": 75,
+    "n": 1,
+    "actual": 70
+   },
+   {
+    "code": "233612",
+    "name": "Petroleum Engineer",
+    "pts": 75,
+    "n": 85,
+    "actual": 80
+   },
+   {
+    "code": "234914",
+    "name": "Physicist",
+    "pts": 75,
+    "n": 42,
+    "actual": 80
+   },
+   {
+    "code": "252511",
+    "name": "Physiotherapist",
+    "pts": 75,
+    "n": 233,
+    "actual": 70
+   },
+   {
+    "code": "334111",
+    "name": "Plumber (General)",
+    "pts": 65,
+    "n": 38,
+    "actual": 65
+   },
+   {
+    "code": "252611",
+    "name": "Podiatrist",
+    "pts": 75,
+    "n": 10,
+    "actual": 70
+   },
+   {
+    "code": "134213",
+    "name": "Primary Health Organisation Manager",
+    "pts": 75,
+    "n": 11,
+    "actual": 65
+   },
+   {
+    "code": "233513",
+    "name": "Production or Plant Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "253411",
+    "name": "Psychiatrist",
+    "pts": 75,
+    "n": 9,
+    "actual": 70
+   },
+   {
+    "code": "272399",
+    "name": "Psychologists nec",
+    "pts": 70,
+    "n": 88,
+    "actual": 80
+   },
+   {
+    "code": "233213",
+    "name": "Quantity Surveyor",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "254412",
+    "name": "Registered Nurse (Aged Care)",
+    "pts": 75,
+    "n": 434,
+    "actual": 70
+   },
+   {
+    "code": "254413",
+    "name": "Registered Nurse (Child and Family Health)",
+    "pts": 80,
+    "n": 4,
+    "actual": 70
+   },
+   {
+    "code": "254414",
+    "name": "Registered Nurse (Community Health)",
+    "pts": 75,
+    "n": 22,
+    "actual": 70
+   },
+   {
+    "code": "254415",
+    "name": "Registered Nurse (Critical Care and Emergency)",
+    "pts": 75,
+    "n": 227,
+    "actual": 70
+   },
+   {
+    "code": "254416",
+    "name": "Registered Nurse (Developmental Disability)",
+    "pts": 75,
+    "n": 3,
+    "actual": 70
+   },
+   {
+    "code": "254417",
+    "name": "Registered Nurse (Disability and Rehabilitation)",
+    "pts": 75,
+    "n": 20,
+    "actual": 70
+   },
+   {
+    "code": "254421",
+    "name": "Registered Nurse (Medical Practice)",
+    "pts": 75,
+    "n": 21,
+    "actual": 70
+   },
+   {
+    "code": "254418",
+    "name": "Registered Nurse (Medical)",
+    "pts": 75,
+    "n": 216,
+    "actual": 70
+   },
+   {
+    "code": "254422",
+    "name": "Registered Nurse (Mental Health)",
+    "pts": 75,
+    "n": 97,
+    "actual": 70
+   },
+   {
+    "code": "254425",
+    "name": "Registered Nurse (Paediatrics)",
+    "pts": 75,
+    "n": 52,
+    "actual": 70
+   },
+   {
+    "code": "254423",
+    "name": "Registered Nurse (Perioperative)",
+    "pts": 75,
+    "n": 115,
+    "actual": 70
+   },
+   {
+    "code": "254424",
+    "name": "Registered Nurse (Surgical)",
+    "pts": 75,
+    "n": 110,
+    "actual": 70
+   },
+   {
+    "code": "254499",
+    "name": "Registered Nurses nec",
+    "pts": 75,
+    "n": 1704,
+    "actual": 70
+   },
+   {
+    "code": "334115",
+    "name": "Roof Plumber",
+    "pts": 65,
+    "n": 6,
+    "actual": 65
+   },
+   {
+    "code": "241411",
+    "name": "Secondary School Teacher",
+    "pts": 75,
+    "n": 589,
+    "actual": 80
+   },
+   {
+    "code": "322211",
+    "name": "Sheetmetal Trades Worker",
+    "pts": 85,
+    "n": 1,
+    "actual": 65
+   },
+   {
+    "code": "272511",
+    "name": "Social Worker",
+    "pts": 75,
+    "n": 489,
+    "actual": 80
+   },
+   {
+    "code": "261313",
+    "name": "Software Engineer",
+    "pts": 110,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "261399",
+    "name": "Software and Applications Programmers nec",
+    "pts": 110,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "271311",
+    "name": "Solicitor",
+    "pts": 75,
+    "n": 422,
+    "actual": 65
+   },
+   {
+    "code": "333212",
+    "name": "Solid Plasterer",
+    "pts": 65,
+    "n": 25,
+    "actual": 65
+   },
+   {
+    "code": "251214",
+    "name": "Sonographer",
+    "pts": 65,
+    "n": 24,
+    "actual": 75
+   },
+   {
+    "code": "241599",
+    "name": "Special Education Teachers nec",
+    "pts": 75,
+    "n": 3,
+    "actual": 80
+   },
+   {
+    "code": "241511",
+    "name": "Special Needs Teacher",
+    "pts": 75,
+    "n": 10,
+    "actual": 80
+   },
+   {
+    "code": "253311",
+    "name": "Specialist Physician (General Medicine)",
+    "pts": 80,
+    "n": 6,
+    "actual": 75
+   },
+   {
+    "code": "253399",
+    "name": "Specialist Physicians nec",
+    "pts": 85,
+    "n": 4,
+    "actual": 85
+   },
+   {
+    "code": "252712",
+    "name": "Speech Pathologist",
+    "pts": 75,
+    "n": 84,
+    "actual": 70
+   },
+   {
+    "code": "224113",
+    "name": "Statistician",
+    "pts": 85,
+    "n": 188,
+    "actual": 85
+   },
+   {
+    "code": "331112",
+    "name": "Stonemason",
+    "pts": 65,
+    "n": 7,
+    "actual": 65
+   },
+   {
+    "code": "233214",
+    "name": "Structural Engineer",
+    "pts": 95,
+    "n": 7,
+    "actual": null
+   },
+   {
+    "code": "253511",
+    "name": "Surgeon (General)",
+    "pts": 75,
+    "n": 2,
+    "actual": 90
+   },
+   {
+    "code": "232212",
+    "name": "Surveyor",
+    "pts": 75,
+    "n": 21,
+    "actual": 80
+   },
+   {
+    "code": "261112",
+    "name": "Systems Analyst",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "221113",
+    "name": "Taxation Accountant",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "263311",
+    "name": "Telecommunications Engineer",
+    "pts": 90,
+    "n": 34,
+    "actual": 85
+   },
+   {
+    "code": "313212",
+    "name": "Telecommunications Field Engineer",
+    "pts": 90,
+    "n": 2,
+    "actual": 85
+   },
+   {
+    "code": "263312",
+    "name": "Telecommunications Network Engineer",
+    "pts": 95,
+    "n": 10,
+    "actual": 85
+   },
+   {
+    "code": "313213",
+    "name": "Telecommunications Network Planner",
+    "pts": 90,
+    "n": 5,
+    "actual": 85
+   },
+   {
+    "code": "313214",
+    "name": "Telecommunications Technical Officer or Technologist",
+    "pts": 90,
+    "n": 2,
+    "actual": 85
+   },
+   {
+    "code": "452316",
+    "name": "Tennis Coach",
+    "pts": 75,
+    "n": 7,
+    "actual": 65
+   },
+   {
+    "code": "253324",
+    "name": "Thoracic Medicine Specialist",
+    "pts": 65,
+    "n": 1,
+    "actual": null
+   },
+   {
+    "code": "233215",
+    "name": "Transport Engineer",
+    "pts": null,
+    "n": 0,
+    "actual": null
+   },
+   {
+    "code": "242111",
+    "name": "University Lecturer",
+    "pts": 85,
+    "n": 415,
+    "actual": 90
+   },
+   {
+    "code": "253518",
+    "name": "Urologist",
+    "pts": 100,
+    "n": 1,
+    "actual": 100
+   },
+   {
+    "code": "224512",
+    "name": "Valuer",
+    "pts": 75,
+    "n": 31,
+    "actual": 65
+   },
+   {
+    "code": "234711",
+    "name": "Veterinarian",
+    "pts": 75,
+    "n": 138,
+    "actual": 80
+   },
+   {
+    "code": "333411",
+    "name": "Wall and Floor Tiler",
+    "pts": 65,
+    "n": 151,
+    "actual": 65
+   },
+   {
+    "code": "322313",
+    "name": "Welder (First Class)",
+    "pts": 80,
+    "n": 78,
+    "actual": 80
+   },
+   {
+    "code": "134214",
+    "name": "Welfare Centre Manager",
+    "pts": 80,
+    "n": 1,
+    "actual": 65
+   },
+   {
+    "code": "234518",
+    "name": "Zoologist",
+    "pts": 90,
+    "n": 7,
+    "actual": 95
+   }
+  ]
+ }
+]

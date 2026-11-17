@@ -10,6 +10,7 @@ Latest processing time release: 2026-11-09, covering applications decided in the
 | `processing_times_history.csv` | 74 | Every release recorded since November 2026, in days |
 | `invitation_rounds_189.csv` | 734 | Minimum points and tie-break date by occupation for each 189 round since November 2024 |
 | `state_nominations.csv` | 8 | 190 and 491 nominations by state and territory, current program year |
+| `predictions/189-<after>-<asAt>.json` | 3 files | 189 cut-off predictions by occupation, frozen before each round (made after round `<after>` from EOI data as at `<asAt>`), with a SHA-256 of the rows; `scores.json` compares them with the results and `backtest.json` applies the same method to past rounds |
 | `skilled_occupation_list.csv` | 714 | Every occupation with ANZSCO codes, lists (MLTSSL, STSOL, ROL, CSOL), visas, assessing authority and latest 189 cut-off |
 
 ## What the numbers mean
