@@ -73,3 +73,77 @@ visa_code,visa_name,stream,updated,period_ending,p25_days,p50_days,p75_days,p90_
 482,Skills In Demand visa (482),Specialist Skills,2026-11-09,2026-09-30,40,59,72,91
 482,Skills In Demand visa (482),Sponsorship,2026-11-09,2026-09-30,7,15,56,122
 858,Global Talent visa (subclass 858),Distinguished Talent / Global Talent (Independent),2026-11-09,2026-09-30,396,487,578,731
+100,Partner visa (subclass 100),,2026-11-27,2026-10-31,244,274,396,578
+101,Child visa (subclass 101),,2026-11-27,2026-10-31,578,700,913,1035
+102,Adoption visa (subclass 102),,2026-11-27,2026-10-31,213,304,426,670
+117,Orphan Relative visa (subclass 117),,2026-11-27,2026-10-31,1552,2161,2557,2800
+132,Business Talent visa (subclass 132),Significant Business History,2026-11-27,2026-10-31,1735,2039,2100,2131
+155,Five Year Resident Return visa (subclass 155),,2026-11-27,2026-10-31,0.5,0.5,3,6
+157,Three Month Resident Return visa (subclass 157),,2026-11-27,2026-10-31,5,8,39,59
+186,Employer Nomination Scheme (subclass 186),Agreement Pathway,2026-11-27,2026-10-31,304,335,335,396
+186,Employer Nomination Scheme (subclass 186),Direct Entry Pathway,2026-11-27,2026-10-31,365,578,670,731
+186,Employer Nomination Scheme (subclass 186),Transition Pathway,2026-11-27,2026-10-31,365,517,639,700
+188,Business Innovation and Investment (Provisional) visa (subclass 188),Business Innovation Extension,2026-11-27,2026-10-31,183,274,304,335
+189,Skilled - Independent visa (subclass 189),New Zealand,2026-11-27,2026-10-31,1552,1705,1887,2161
+189,Skilled - Independent visa (subclass 189),Points-Tested,2026-11-27,2026-10-31,85,91,152,304
+190,Skilled - Nominated visa (subclass 190),,2026-11-27,2026-10-31,152,213,365,487
+191,Permanent Residence (Skilled Regional) (subclass 191),Regional Provisional Visa,2026-11-27,2026-10-31,244,244,244,304
+300,Prospective Marriage visa (subclass 300),,2026-11-27,2026-10-31,457,670,883,1005
+309,Partner (Provisional) visa (subclass 309),,2026-11-27,2026-10-31,487,578,883,944
+400,Temporary Work (Short Stay Activity) visa (subclass 400),,2026-11-27,2026-10-31,7,10,13,30
+403,Temporary Work (International Relations) visa (subclass 403),Domestic Worker (Diplomatic or Consular),2026-11-27,2026-10-31,4,14,41,91
+403,Temporary Work (International Relations) visa (subclass 403),Foreign Government Agency,2026-11-27,2026-10-31,13,37,84,122
+403,Temporary Work (International Relations) visa (subclass 403),Government Agreement,2026-11-27,2026-10-31,6,15,31,37
+403,Temporary Work (International Relations) visa (subclass 403),Mobility Arrangement for Talented Early-professionals Scheme (MATES),2026-11-27,2026-10-31,55,69,91,91
+403,Temporary Work (International Relations) visa (subclass 403),Pacific Australia Labour Mobility Scheme,2026-11-27,2026-10-31,14,15,18,25
+407,Training visa (subclass 407),,2026-11-27,2026-10-31,244,304,396,487
+408,Temporary Activity visa (subclass 408),Entertainment Activities,2026-11-27,2026-10-31,6,11,20,26
+408,Temporary Activity visa (subclass 408),Exchange Arrangements,2026-11-27,2026-10-31,18,29,41,50
+408,Temporary Activity visa (subclass 408),Invited for Other Social and Cultural Activity,2026-11-27,2026-10-31,3,8,15,27
+408,Temporary Activity visa (subclass 408),Religious Work,2026-11-27,2026-10-31,122,152,244,304
+408,Temporary Activity visa (subclass 408),Research Activities,2026-11-27,2026-10-31,78,122,122,152
+408,Temporary Activity visa (subclass 408),Special Programs,2026-11-27,2026-10-31,7,11,25,85
+408,Temporary Activity visa (subclass 408),Sporting Activities,2026-11-27,2026-10-31,7,15,27,54
+408,Temporary Activity visa (subclass 408),Superyacht Crew,2026-11-27,2026-10-31,2,4,20,56
+417,Working Holiday visa (subclass 417),,2026-11-27,2026-10-31,74,76,77,91
+445,Dependent Child visa (subclass 445),,2026-11-27,2026-10-31,670,761,883,974
+461,New Zealand Citizen Family Relationship (Temporary) visa (subclass 461),,2026-11-27,2026-10-31,122,152,183,213
+462,Work and Holiday visa (subclass 462),,2026-11-27,2026-10-31,91,91,91,122
+482,Skills In Demand visa (482),Core Skills,2026-11-27,2026-10-31,48,91,183,274
+482,Skills In Demand visa (482),Labour Agreement,2026-11-27,2026-10-31,122,183,213,244
+482,Skills In Demand visa (482),Nomination,2026-11-27,2026-10-31,0.5,24,152,213
+482,Skills In Demand visa (482),Specialist Skills,2026-11-27,2026-10-31,36,59,83,91
+482,Skills In Demand visa (482),Sponsorship,2026-11-27,2026-10-31,13,19,24,49
+485,Temporary Graduate visa (subclass 485),Post-Higher Education Work,2026-11-27,2026-10-31,5,20,43,91
+485,Temporary Graduate visa (subclass 485),Post-Vocation Education Work,2026-11-27,2026-10-31,29,64,91,122
+491,Skilled Work Regional (Provisional) visa (subclass 491),Family Sponsored Regional,2026-11-27,2026-10-31,71,122,152,213
+491,Skilled Work Regional (Provisional) visa (subclass 491),State/Territory Government Nominated Regional,2026-11-27,2026-10-31,152,152,365,639
+494,Skilled Employer Sponsored Regional (Provisional) visa (subclass 494),Employer Sponsored,2026-11-27,2026-10-31,91,213,304,365
+494,Skilled Employer Sponsored Regional (Provisional) visa (subclass 494),Labour Agreement,2026-11-27,2026-10-31,122,304,335,396
+500,Student visa (subclass 500),Foreign Affairs or Defence Sector,2026-11-27,2026-10-31,1,6,21,48
+500,Student visa (subclass 500),Higher Education Sector,2026-11-27,2026-10-31,10,27,66,213
+500,Student visa (subclass 500),Independent ELICOS Sector,2026-11-27,2026-10-31,2,16,28,57
+500,Student visa (subclass 500),Non-Award Sector,2026-11-27,2026-10-31,0.5,0.5,0.5,9
+500,Student visa (subclass 500),Postgraduate Research Sector,2026-11-27,2026-10-31,11,32,64,91
+500,Student visa (subclass 500),Schools Sector,2026-11-27,2026-10-31,13,18,36,213
+500,Student visa (subclass 500),Vocational Education and Training Sector,2026-11-27,2026-10-31,56,213,213,244
+590,Student Guardian visa (subclass 590),,2026-11-27,2026-10-31,16,33,122,244
+600,Visitor visa (subclass 600),Business Visitor,2026-11-27,2026-10-31,4,7,15,28
+600,Visitor visa (subclass 600),Sponsored Family,2026-11-27,2026-10-31,28,44,57,122
+600,Visitor visa (subclass 600),Tourist,2026-11-27,2026-10-31,7,19,28,34
+601,Electronic Travel Authority (subclass 601),,2026-11-27,2026-10-31,0.5,0.5,0.5,0.5
+602,Medical Treatment visa (subclass 602),,2026-11-27,2026-10-31,4,25,68,91
+651,eVisitor visa (subclass 651),,2026-11-27,2026-10-31,0.5,0.5,0.5,0.5
+771,Transit visa (subclass 771),,2026-11-27,2026-10-31,0.5,3,10,15
+801,Partner visa (subclass 801),,2026-11-27,2026-10-31,122,122,335,578
+802,Child visa (subclass 802),,2026-11-27,2026-10-31,517,609,761,974
+820,Partner visa (subclass 820),,2026-11-27,2026-10-31,609,639,761,883
+858,Global Talent visa (subclass 858),Distinguished Talent / Global Talent (Independent),2026-11-27,2026-10-31,396,487,578,731
+858-1,National Innovation visa (subclass 858),National Innovation,2026-11-27,2026-10-31,38,75,91,122
+870,Sponsored Parent (Temporary) (subclass 870),Sponsorship,2026-11-27,2026-10-31,88,122,122,122
+870,Sponsored Parent (Temporary) (subclass 870),Visa Application,2026-11-27,2026-10-31,183,213,244,274
+887,Skilled - Regional visa (subclass 887),,2026-11-27,2026-10-31,274,304,335,335
+888,Business Innovation and Investment (Permanent) visa (subclass 888),Business Innovation,2026-11-27,2026-10-31,72,304,304,335
+888,Business Innovation and Investment (Permanent) visa (subclass 888),Investor,2026-11-27,2026-10-31,91,122,152,183
+888,Business Innovation and Investment (Permanent) visa (subclass 888),Significant Investor,2026-11-27,2026-10-31,91,152,213,304
+988,Maritime Crew Visa (subclass 988),,2026-11-27,2026-10-31,0.5,0.5,0.5,1
